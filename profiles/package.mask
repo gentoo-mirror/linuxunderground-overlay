@@ -3,11 +3,15 @@
 =dev-python/azure-cli-configure-2.0.13
 =dev-python/azure-cli-core-2.0.25
 =dev-python/azure-cli-cosmosdb-0.1.16
+=dev-python/azure-cli-iot-0.1.16
 =dev-python/azure-cli-keyvault-2.0.16
+=dev-python/azure-cli-lab-0.0.15
+=dev-python/azure-cli-monitor-0.1.0
 =dev-python/azure-cli-network-2.0.21
 =dev-python/azure-cli-profile-2.0.17
 =dev-python/azure-cli-storage-2.0.23
 =dev-python/azure-cli-rdbms-0.0.11
+=dev-python/azure-cli-redis-0.2.11
 =dev-python/azure-cli-reservations-0.1.1
 =dev-python/azure-cli-resource-2.0.21
 =dev-python/azure-cli-role-2.0.17
