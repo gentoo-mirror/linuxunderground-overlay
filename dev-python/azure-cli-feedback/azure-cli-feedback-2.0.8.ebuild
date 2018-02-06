@@ -1,4 +1,4 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2018 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=6
@@ -7,18 +7,17 @@ PYTHON_COMPAT=( python2_7 python3_{4,5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools Data Lake Store Command Module"
-HOMEPAGE="https://pypi.python.org/pypi/azure-cli-dls"
-SRC_URI="mirror://pypi/a/azure-cli-dls/${P}.tar.gz"
+DESCRIPTION="Microsoft Azure Command-Line Tools Feedback Command Module"
+HOMEPAGE="https://pypi.python.org/pypi/azure-cli-feedback"
+SRC_URI="mirror://pypi/a/azure-cli-feedback/${P}.tar.gz"
 
 KEYWORDS="~amd64 ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/azure-mgmt-datalake-store-0.1.6[${PYTHON_USEDEP}]
-	>=dev-python/azure-datalake-store-0.0.17[${PYTHON_USEDEP}]
-	dev-python/azure-cli-core[${PYTHON_USEDEP}]
-	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
+RDEPEND="dev-python/azure-cli-core[${PYTHON_USEDEP}]
+	dev-python/azure-cli-command-modules-nspkg[${PYTHON_USEDEP}]
+	dev-python/applicationinsights[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
