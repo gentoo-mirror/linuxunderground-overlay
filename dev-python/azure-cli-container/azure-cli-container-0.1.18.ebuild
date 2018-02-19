@@ -7,16 +7,17 @@ PYTHON_COMPAT=( python2_7 python3_{4,5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools Cosmos DB Command Module"
-HOMEPAGE="https://pypi.python.org/pypi/azure-cli-cosmosdb"
-SRC_URI="mirror://pypi/a/azure-cli-cosmosdb/${P}.tar.gz"
+DESCRIPTION="Microsoft Azure Command-Line Tools container Command Module"
+HOMEPAGE="https://pypi.python.org/pypi/azure-cli-container"
+SRC_URI="mirror://pypi/a/azure-cli-container/${P}.tar.gz"
 
 KEYWORDS="~amd64 ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/pydocumentdb-2.0.1[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-cosmosdb-0.2.1[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/azure-mgmt-containerinstance-0.3.1[${PYTHON_USEDEP}]
+	dev-python/pyyaml[${PYTHON_USEDEP}]
+	dev-python/colorama[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
 	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
 
