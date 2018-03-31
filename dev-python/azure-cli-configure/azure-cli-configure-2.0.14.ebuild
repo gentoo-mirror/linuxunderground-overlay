@@ -7,17 +7,16 @@ PYTHON_COMPAT=( python2_7 python3_{4,5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools Profile Command Module"
-HOMEPAGE="https://pypi.python.org/pypi/azure-cli-profile"
-SRC_URI="mirror://pypi/a/azure-cli-profile/${P}.tar.gz"
+DESCRIPTION="Microsoft Azure Command-Line Tools Configure Command Module"
+HOMEPAGE="https://pypi.python.org/pypi/azure-cli-configure"
+SRC_URI="mirror://pypi/a/azure-cli-configure/${P}.tar.gz"
 
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~amd64 ~x86 ~arm"
 LICENSE="MIT"
 SLOT="0"
 
 RDEPEND="dev-python/azure-cli-core[${PYTHON_USEDEP}]
-	dev-python/azure-cli-command-modules-nspkg[${PYTHON_USEDEP}]
-	>=dev-python/adal-0.4.7[${PYTHON_USEDEP}]"
+	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
