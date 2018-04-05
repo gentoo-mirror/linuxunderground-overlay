@@ -7,15 +7,17 @@ PYTHON_COMPAT=( python2_7 python3_{4,5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools Cognitive Services Command Module"
-HOMEPAGE="https://pypi.python.org/pypi/azure-cli-cognitiveservices"
-SRC_URI="mirror://pypi/a/azure-cli-cognitiveservices/${P}.tar.gz"
+DESCRIPTION="Microsoft Azure Command-Line Tools IoT Command Module"
+HOMEPAGE="https://pypi.python.org/pypi/azure-cli-iot"
+SRC_URI="mirror://pypi/a/azure-cli-iot/${P}.tar.gz"
 
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~amd64 ~x86 ~arm"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/azure-mgmt-cognitiveservices-1.0.0[${PYTHON_USEDEP}]
+RDEPEND="dev-python/pyopenssl[${PYTHON_USEDEP}]
+	>=dev-python/azure-mgmt-iothub-0.4.0[${PYTHON_USEDEP}]
+	>=dev-python/azure-mgmt-iothubprovisioningservices-0.1.0[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
 	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
 
