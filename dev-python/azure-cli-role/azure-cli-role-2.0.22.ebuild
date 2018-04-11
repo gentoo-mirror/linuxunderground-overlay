@@ -7,15 +7,19 @@ PYTHON_COMPAT=( python2_7 python3_{4,5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools Advisor Command Module"
-HOMEPAGE="https://pypi.python.org/pypi/azure-cli-advisor"
-SRC_URI="mirror://pypi/a/azure-cli-advisor/${P}.tar.gz"
+DESCRIPTION="Microsoft Azure Command-Line Tools Role Command Module"
+HOMEPAGE="https://pypi.python.org/pypi/azure-cli-role"
+SRC_URI="mirror://pypi/a/azure-cli-role/${P}.tar.gz"
 
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~amd64 ~x86 ~arm"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/azure-mgmt-advisor-0.1.0[${PYTHON_USEDEP}]
+RDEPEND="dev-python/pytz[${PYTHON_USEDEP}]
+	>=dev-python/azure-mgmt-monitor-0.5.0[${PYTHON_USEDEP}]
+	>=dev-python/azure-mgmt-authorization-0.40.0[${PYTHON_USEDEP}]
+	>=dev-python/azure-keyvault-0.3.7[${PYTHON_USEDEP}]
+	>=dev-python/azure-graphrbac-0.40.0[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
 	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
 
