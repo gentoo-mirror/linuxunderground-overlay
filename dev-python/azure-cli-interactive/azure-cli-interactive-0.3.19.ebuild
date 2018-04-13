@@ -7,17 +7,21 @@ PYTHON_COMPAT=( python2_7 python3_{4,5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools Find Command Module"
-HOMEPAGE="https://pypi.python.org/pypi/azure-cli-find"
-SRC_URI="mirror://pypi/a/azure-cli-find/${P}.tar.gz"
+DESCRIPTION="Microsoft Azure Command-Line Interactive Shell"
+HOMEPAGE="https://pypi.python.org/pypi/azure-cli-interactive"
+SRC_URI="mirror://pypi/a/azure-cli-interactive/${P}.tar.gz"
 
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="~amd64 ~x86 ~arm"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND="dev-python/whoosh[${PYTHON_USEDEP}]
+RDEPEND="dev-python/six[${PYTHON_USEDEP}]
+	dev-python/pyyaml[${PYTHON_USEDEP}]
+	dev-python/prompt_toolkit[${PYTHON_USEDEP}]
+	dev-python/jmespath[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
-	dev-python/azure-cli-command-modules-nspkg[${PYTHON_USEDEP}]"
+	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]
+	dev-python/applicationinsights[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
