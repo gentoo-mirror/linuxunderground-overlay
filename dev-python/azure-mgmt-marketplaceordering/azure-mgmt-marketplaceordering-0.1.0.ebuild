@@ -7,23 +7,19 @@ PYTHON_COMPAT=( python2_7 python3_{4,5,6} )
 
 inherit distutils-r1
 
-MY_P="${P/_/}"
-
-DESCRIPTION="Microsoft Azure Network Resource Management Client Library for Python"
-HOMEPAGE="https://pypi.python.org/pypi/azure-mgmt-network"
-SRC_URI="mirror://pypi/a/azure-mgmt-network/${MY_P}.zip"
+DESCRIPTION="Microsoft Azure Market Place Ordering Client Library"
+HOMEPAGE="https://pypi.org/project/azure-mgmt-marketplaceordering"
+SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.zip"
 
 KEYWORDS="~amd64 ~x86 ~arm"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/msrestazure-0.4.11[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/msrestazure-0.4.20[${PYTHON_USEDEP}]
 	>=dev-python/azure-common-1.1.6[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
-
-S="${WORKDIR}/${MY_P}"
 
 python_install() {
 	distutils-r1_python_install
