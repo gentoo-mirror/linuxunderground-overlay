@@ -7,19 +7,22 @@ PYTHON_COMPAT=( python2_7 python3_{5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Authorization Management Client Library for Python"
-HOMEPAGE="https://pypi.org/project/azure-mgmt-authorization"
-SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.zip"
+MY_P="${P/_/}"
 
-KEYWORDS="~amd64 ~x86 ~arm"
+DESCRIPTION="Microsoft Azure Network Resource Management Client Library for Python"
+HOMEPAGE="https://pypi.org/project/azure-mgmt-network"
+SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${MY_P}.zip"
+
+KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/msrestazure-0.4.20[${PYTHON_USEDEP}]
-	>=dev-python/azure-common-1.1.6[${PYTHON_USEDEP}]"
+RDEPEND=">=dev-python/azure-common-1.1.9[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
+
+S="${WORKDIR}/${MY_P}"
 
 python_install() {
 	distutils-r1_python_install
