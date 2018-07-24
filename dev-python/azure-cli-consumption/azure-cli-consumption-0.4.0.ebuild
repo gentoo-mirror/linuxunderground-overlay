@@ -7,25 +7,17 @@ PYTHON_COMPAT=( python2_7 python3_{5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools ACS Command Module"
-HOMEPAGE="https://pypi.org/project/azure-cli-acs"
+DESCRIPTION="Microsoft Azure Command-Line Tools Consumption Command Module"
+HOMEPAGE="https://pypi.org/project/azure-cli-consumption"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 
-KEYWORDS="~amd64 ~x86 ~arm"
+KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND="dev-python/sshtunnel[${PYTHON_USEDEP}]
-	dev-python/six[${PYTHON_USEDEP}]
-	dev-python/scp[${PYTHON_USEDEP}]
-	dev-python/pyyaml[${PYTHON_USEDEP}]
-	dev-python/paramiko[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-containerservice-3.0.1[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-compute-4.0.0_rc2[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-authorization-0.40.0[${PYTHON_USEDEP}]
-	>=dev-python/azure-graphrbac-0.40.0[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/azure-mgmt-consumption-2.0.0[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
-	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
+	dev-python/azure-cli-command-modules-nspkg[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
