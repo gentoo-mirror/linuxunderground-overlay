@@ -7,15 +7,15 @@ PYTHON_COMPAT=( python2_7 python3_{5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools Extension Command Module"
-HOMEPAGE="https://pypi.org/project/azure-cli-extension"
+DESCRIPTION="Microsoft Azure Command-Line Tools Reservations Command Module"
+HOMEPAGE="https://pypi.org/project/azure-cli-reservations"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 
-KEYWORDS="~amd64 ~x86 ~arm"
+KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND="dev-python/wheel[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/azure-mgmt-reservations-0.2.1[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
 	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
 
