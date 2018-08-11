@@ -10,4 +10,4 @@ RDEPEND=X? ( x11-libs/libX11 x11-libs/libXxf86vm x11-libs/libXau x11-libs/libXex
 SLOT=0
 SRC_URI=https://codeload.github.com/stsp/dosemu2/tar.gz/2.0pre8 -> dosemu2-2.0_pre8.tar.gz mirror://sourceforge/dosemu/dosemu-freedos-1.0-bin.tgz
 _eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	eutils	b43d08fe0771faf2f5e7be19c2789d33	flag-o-matic	5128c4729303400bd8d4b0b966530955	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	pax-utils	e85f015e815dd463b0c206d781ef45a5	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
-_md5_=d7460cd275a192b486f1ff3e31a19ba4
+_md5_=c6e1bb96bd90d2541579cc85050a767a
