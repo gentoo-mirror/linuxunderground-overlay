@@ -7,15 +7,16 @@ PYTHON_COMPAT=( python2_7 python3_{5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure CLI 'eventhubs' command module"
-HOMEPAGE="https://pypi.org/project/azure-cli-eventhubs"
+DESCRIPTION="Microsoft Azure Command-Line Tools Data Lake Store Command Module"
+HOMEPAGE="https://pypi.org/project/azure-cli-dls"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 
 KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/azure-mgmt-eventhub-1.2.0[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/azure-mgmt-datalake-store-0.5.0[${PYTHON_USEDEP}]
+	>=dev-python/azure-datalake-store-0.0.31[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
 	>=dev-python/azure-cli-command-modules-nspkg-2.0.0[${PYTHON_USEDEP}]"
 
