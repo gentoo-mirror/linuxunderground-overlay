@@ -7,16 +7,15 @@ PYTHON_COMPAT=( python2_7 python3_{5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure CLI bot service command module"
-HOMEPAGE="https://pypi.org/project/azure-cli-botservice"
+DESCRIPTION="Microsoft Azure CLI iotcentral command module"
+HOMEPAGE="https://pypi.org/project/azure-cli-iotcentral"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 
 KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/azure-mgmt-web-0.40.0[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-botservice-0.1.0[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/azure-mgmt-iotcentral-0.2.0[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
