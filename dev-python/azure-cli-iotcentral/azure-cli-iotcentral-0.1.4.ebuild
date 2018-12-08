@@ -7,17 +7,16 @@ PYTHON_COMPAT=( python2_7 python3_{5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Interactive Shell"
-HOMEPAGE="https://pypi.org/project/azure-cli-interactive"
+DESCRIPTION="Microsoft Azure CLI iotcentral command module"
+HOMEPAGE="https://pypi.org/project/azure-cli-iotcentral"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 
 KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND="dev-python/prompt_toolkit[${PYTHON_USEDEP}]
-	dev-python/azure-cli-core[${PYTHON_USEDEP}]
-	!dev-python/azure-cli-command-modules-nspkg"
+RDEPEND=">=dev-python/azure-mgmt-iotcentral-1.0.0[${PYTHON_USEDEP}]
+	dev-python/azure-cli-core[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
