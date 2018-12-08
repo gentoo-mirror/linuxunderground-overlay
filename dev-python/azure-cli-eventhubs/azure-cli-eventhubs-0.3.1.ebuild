@@ -7,17 +7,15 @@ PYTHON_COMPAT=( python2_7 python3_{5,6} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Command-Line Tools container Command Module"
-HOMEPAGE="https://pypi.org/project/azure-cli-container"
+DESCRIPTION="Microsoft Azure CLI 'eventhubs' command module"
+HOMEPAGE="https://pypi.org/project/azure-cli-eventhubs"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
 
 KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/azure-mgmt-containerinstance-1.1.0[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-loganalytics-0.2.0[${PYTHON_USEDEP}]
-	dev-python/websocket-client[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/azure-mgmt-eventhub-2.2.0[${PYTHON_USEDEP}]
 	dev-python/azure-cli-core[${PYTHON_USEDEP}]
 	!dev-python/azure-cli-command-modules-nspkg"
 
