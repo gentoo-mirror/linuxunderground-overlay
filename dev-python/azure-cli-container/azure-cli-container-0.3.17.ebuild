@@ -3,7 +3,7 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python2_7 python3_{5,6} )
+PYTHON_COMPAT=( python3_{5,6,7} )
 
 inherit distutils-r1
 
@@ -15,13 +15,12 @@ KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-RDEPEND=">=dev-python/azure-mgmt-containerinstance-1.4.0[${PYTHON_USEDEP}]
+RDEPEND=">=dev-python/azure-mgmt-containerinstance-1.5.0[${PYTHON_USEDEP}]
 	>=dev-python/azure-mgmt-loganalytics-0.2.0[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-network-2.6.0_rc1[${PYTHON_USEDEP}]
-	>=dev-python/azure-mgmt-authorization-0.50.0[${PYTHON_USEDEP}]
+	>=dev-python/azure-mgmt-network-2.7.0[${PYTHON_USEDEP}]
+	>=dev-python/azure-mgmt-authorization-0.52.0[${PYTHON_USEDEP}]
 	dev-python/websocket-client[${PYTHON_USEDEP}]
-	dev-python/azure-cli-core[${PYTHON_USEDEP}]
-	!dev-python/azure-cli-command-modules-nspkg"
+	dev-python/azure-cli-core[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
