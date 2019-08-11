@@ -1,1 +1,155 @@
+app-crypt/acsccid 1.1.6: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
+app-editors/featherpad 0.9.1 0.9.4 9999: Lightweight Qt5 Plain-Text Editor for Linux
+app-editors/qedit 2.8.1 2.8.3: Qt-based multi-purpose text editor
+app-emulation/dosemu2 2.0_pre8 9999: DOS Emulator. It's an attempt to re-incarnate the famous dosemu project
+app-emulation/ti99sim 0.13.0 0.14.0 0.15.0: Texas Instruments Home Computer Emulator
+app-misc/eid-mw-sdk-c 0.2.3: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
+dev-db/firebird 2.5.8.27089.0 3.0.3.32900.0 3.0.4.33054.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
+dev-python/PyKCS11 1.5.3 1.5.5: A complete PKCS#11 wrapper for Python
+dev-python/adal 1.2.1 1.2.2: ADAL Python library
+dev-python/applicationinsights 0.11.7 0.11.9: This project extends the Application Insights API surface to support Python
 dev-python/argcomplete 1.9.5: Bash tab completion for argparse
+dev-python/azure-batch 6.0.1 6.0.1-r1 7.0.0: Microsoft Azure Batch Client Library for Python
+dev-python/azure-cli-acr 2.2.3 2.2.8 2.2.9: Microsoft Azure Command-Line Tools ACR Command Module
+dev-python/azure-cli-acs 2.3.20 2.4.3 2.4.4: Microsoft Azure Command-Line Tools ACS Command Module
+dev-python/azure-cli-advisor 2.0.0 2.0.1: Microsoft Azure Command-Line Tools Advisor Command Module
+dev-python/azure-cli-ams 0.4.3 0.4.6 0.4.7: Microsoft Azure CLI 'ams' Command Module
+dev-python/azure-cli-appservice 0.2.16 0.2.20 0.2.21: Microsoft Azure Command-Line Tools AppService Command Module
+dev-python/azure-cli-backup 1.2.2 1.2.4 1.2.5: Microsoft Azure Command-Line Tools Recovery Services Command Module
+dev-python/azure-cli-batch 4.0.0 4.0.2 4.0.3: Microsoft Azure Command-Line Tools Batch Command Module
+dev-python/azure-cli-batchai 0.4.8 0.4.9: Microsoft Azure Batch AI Client Command-Line tools
+dev-python/azure-cli-billing 0.2.1 0.2.2: Microsoft Azure Command-Line Tools Billing Command Module
+dev-python/azure-cli-botservice 0.1.9 0.2.1 0.2.2: Microsoft Azure CLI bot service command module
+dev-python/azure-cli-cdn 0.2.1 0.2.3 0.2.4: Microsoft Azure Command-Line Tools Content Delivery Network (CDN) Command Module
+dev-python/azure-cli-cloud 2.1.1 2.1.1-r1: Microsoft Azure Command-Line Tools Cloud Command Module
+dev-python/azure-cli-cognitiveservices 0.2.5 0.2.6: Microsoft Azure Command-Line Tools Cognitive Services Command Module
+dev-python/azure-cli-configure 2.0.20 2.0.23 2.0.24: Microsoft Azure Command-Line Tools Configure Command Module
+dev-python/azure-cli-consumption 0.4.2 0.4.3 0.4.4: Microsoft Azure Command-Line Tools Consumption Command Module
+dev-python/azure-cli-container 0.3.15 0.3.17 0.3.18: Microsoft Azure Command-Line Tools container Command Module
+dev-python/azure-cli-core 2.0.61 2.0.66 2.0.68: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-cosmosdb 0.2.9 0.2.10 0.2.11: Microsoft Azure Command-Line Tools Cosmos DB Command Module
+dev-python/azure-cli-dla 0.2.5 0.2.6: Microsoft Azure Command-Line Tools Data Lake Analytics Command Module
+dev-python/azure-cli-dls 0.1.8 0.1.9 0.1.10: Microsoft Azure Command-Line Tools Data Lake Store Command Module
+dev-python/azure-cli-dms 0.1.3 0.1.4: Microsoft Azure CLI 'Database Migration Service' Command Module
+dev-python/azure-cli-eventgrid 0.2.2 0.2.3 0.2.4: Microsoft Azure Command-Line Tools EventGrid Command Module
+dev-python/azure-cli-eventhubs 0.3.4 0.3.6 0.3.7: Microsoft Azure CLI 'eventhubs' command module
+dev-python/azure-cli-extension 0.2.4 0.2.5: Microsoft Azure Command-Line Tools Extension Command Module
+dev-python/azure-cli-feedback 2.1.4 2.2.1: Microsoft Azure Command-Line Tools Feedback Command Module
+dev-python/azure-cli-find 0.3.1 0.3.3 0.3.4: Microsoft Azure Command-Line Tools Find Command Module
+dev-python/azure-cli-hdinsight 0.3.2 0.3.4 0.3.5: Microsoft Azure CLI hdinsight Command Module
+dev-python/azure-cli-interactive 0.4.2 0.4.4 0.4.5: Microsoft Azure Command-Line Interactive Shell
+dev-python/azure-cli-iot 0.3.7 0.3.10 0.3.11: Microsoft Azure Command-Line Tools IoT Command Module
+dev-python/azure-cli-iotcentral 0.1.6 0.1.7: Microsoft Azure CLI iotcentral command module
+dev-python/azure-cli-keyvault 2.2.13 2.2.15 2.2.16: Microsoft Azure Command-Line Tools Keyvault Command Module
+dev-python/azure-cli-kusto 0.2.1 0.2.2 0.2.3: Microsoft Azure command-line tools KUSTO command module
+dev-python/azure-cli-lab 0.1.6 0.1.7 0.1.8: Microsoft Azure Command-Line Tools DevTestLabs Command Module
+dev-python/azure-cli-maps 0.3.4 0.3.5: Microsoft Azure CLI maps Command Module
+dev-python/azure-cli-monitor 0.2.11 0.2.14 0.2.15: Microsoft Azure Command-Line Tools Monitor Command Module
+dev-python/azure-cli-network 2.3.5 2.5.1 2.5.2: Microsoft Azure Command-Line Tools Network Command Module
+dev-python/azure-cli-policyinsights 0.1.2 0.1.3 0.1.4: Microsoft Azure CLI policyinsights command module
+dev-python/azure-cli-profile 2.1.4 2.1.5: Microsoft Azure Command-Line Tools Profile Command Module
+dev-python/azure-cli-rdbms 0.3.9 0.3.11 0.3.12: Microsoft Azure Command-Line Tools MySQL and PostgreSQL Command Module
+dev-python/azure-cli-redis 0.4.2 0.4.3 0.4.4: Microsoft Azure Command-Line Tools Redis Command Module
+dev-python/azure-cli-relay 0.1.4 0.1.5: Microsoft Azure CLI 'relay' command module
+dev-python/azure-cli-reservations 0.4.2 0.4.3: Microsoft Azure Command-Line Tools Reservations Command Module
+dev-python/azure-cli-resource 2.1.12 2.1.15 2.1.16: Microsoft Azure Command-Line Tools Resource Command Module
+dev-python/azure-cli-role 2.4.3 2.6.3 2.6.4: Microsoft Azure Command-Line Tools Role Command Module
+dev-python/azure-cli-search 0.1.1 0.1.2: Microsoft Azure CLI search Command Module
+dev-python/azure-cli-security 0.1.1 0.1.2: Microsoft Azure command-line tools Azure security center
+dev-python/azure-cli-servicebus 0.3.4 0.3.5 0.3.6: Microsoft Azure CLI 'servicebus' command module
+dev-python/azure-cli-servicefabric 0.1.15 0.1.19 0.1.20: Microsoft Azure Service Fabric Command-Line Tools
+dev-python/azure-cli-signalr 1.0.0 1.0.0-r1 1.0.1: Microsoft Azure CLI signalr command module
+dev-python/azure-cli-sql 2.2.0 2.2.4 2.2.5: Microsoft Azure Command-Line Tools SQL Command Module
+dev-python/azure-cli-sqlvm 0.1.1 0.2.0: Microsoft Azure command-line tools SQL virtual machine command module
+dev-python/azure-cli-storage 2.3.2 2.4.2 2.4.3: Microsoft Azure Command-Line Tools Storage Command Module
+dev-python/azure-cli-telemetry 1.0.2 1.0.2-r1 1.0.3: Microsoft Azure CLI Telemetry Package
+dev-python/azure-cli-vm 2.2.17 2.2.22 2.2.23: Microsoft Azure Command-Line Tools VM Command Module
+dev-python/azure-common 1.1.18 1.1.22 1.1.23: Microsoft Azure Client Library for Python (Common)
+dev-python/azure-datalake-store 0.0.39 0.0.46: Azure Data Lake Store Filesystem Client Library for Python
+dev-python/azure-functions-devops-build 0.0.11 0.0.22: Python package for integrating azure functions with azure devops
+dev-python/azure-graphrbac 0.61.0 0.61.1: Microsoft Azure Graph RBAC Resource Management Client Library for Python
+dev-python/azure-keyvault 1.1.0 1.1.0-r1: Microsoft Azure Key Vault Client Library for Python
+dev-python/azure-mgmt-advisor 2.0.1 2.0.1-r1: Microsoft Azure Advisor Client Library for Python
+dev-python/azure-mgmt-applicationinsights 0.1.1 0.1.1-r1 0.2.0: Microsoft Azure Application Insights Management Client Library for Python
+dev-python/azure-mgmt-authorization 0.51.1 0.52.0 0.60.0: Microsoft Azure Authorization Management Client Library for Python
+dev-python/azure-mgmt-batch 6.0.0 6.0.0-r1: Microsoft Azure Batch Management Client Library for Python
+dev-python/azure-mgmt-batchai 2.0.0 2.0.0-r1: Microsoft Azure Batch AI Management Client Library for Python
+dev-python/azure-mgmt-billing 0.2.0 0.2.0-r1: Microsoft Azure Billing Management Client Library for Python
+dev-python/azure-mgmt-botservice 0.1.0 0.2.0: Microsoft Azure Bot Service client library
+dev-python/azure-mgmt-cdn 3.0.0 3.1.0: Microsoft Azure CDN Resource Management Client Library for Python
+dev-python/azure-mgmt-cognitiveservices 3.0.0 5.0.0: Microsoft Azure Cognitive Services Management Client Library for Python
+dev-python/azure-mgmt-compute 4.4.0 5.0.0: Microsoft Azure Compute Resource Management Client Library for Python
+dev-python/azure-mgmt-consumption 2.0.0 2.0.0-r1: Microsoft Azure Consumption Management Client Library for Python
+dev-python/azure-mgmt-containerinstance 1.4.0 1.5.0: Microsoft Azure Container Instance Client Library for Python
+dev-python/azure-mgmt-containerregistry 2.7.0 2.8.0: Microsoft Azure Container Registry Client Library for Python
+dev-python/azure-mgmt-containerservice 4.4.0 5.3.0 6.0.0: Microsoft Azure Container Service Client Library for Python
+dev-python/azure-mgmt-cosmosdb 0.5.2 0.7.0: Microsoft Azure Cosmos DB Management Client Library for Python
+dev-python/azure-mgmt-datalake-analytics 0.2.0 0.3.0: Microsoft Azure Data Lake Analytics Management Client Library for Python
+dev-python/azure-mgmt-datalake-store 0.5.0 0.5.0-r1: Microsoft Azure Data Lake Store Management Client Library for Python
+dev-python/azure-mgmt-datamigration 1.0.0 2.2.0: Microsoft Azure Data Migration Client Library
+dev-python/azure-mgmt-devtestlabs 2.2.0 2.2.0-r1 3.0.0: Microsoft Azure DevTest Labs Management Client Library for Python
+dev-python/azure-mgmt-dns 2.1.0 2.1.0-r1 3.0.0: Microsoft Azure DNS Management Client Library for Python
+dev-python/azure-mgmt-eventgrid 2.0.0 2.2.0: Microsoft Azure EventGrid Management Client Library for Python
+dev-python/azure-mgmt-eventhub 2.4.0 2.6.0 3.0.0: Microsoft Azure EventHub Management Client Library
+dev-python/azure-mgmt-hdinsight 0.2.1 1.0.0 1.1.0: Microsoft Azure HDInsight Management Client Library
+dev-python/azure-mgmt-iotcentral 1.0.0 1.0.0-r1: Microsoft Azure IoTCentral management client library
+dev-python/azure-mgmt-iothub 0.7.0 0.8.2: Microsoft Azure IoTHub Management Client Library for Python
+dev-python/azure-mgmt-iothubprovisioningservices 0.2.0 0.2.0-r1: Microsoft Azure IoTHub Provisioning Services Client Library for Python
+dev-python/azure-mgmt-keyvault 1.1.0 1.1.0-r1 2.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
+dev-python/azure-mgmt-kusto 0.2.0 0.3.0: Microsoft Azure Kusto management client library for Python
+dev-python/azure-mgmt-loganalytics 0.2.0 0.2.0-r1: Microsoft Azure Log Analytics Management Client Library
+dev-python/azure-mgmt-managementgroups 0.2.0 0.2.0-r1: Microsoft Azure Management Groups Client Library
+dev-python/azure-mgmt-maps 0.1.0 0.1.0-r1: Microsoft Azure Maps client library
+dev-python/azure-mgmt-marketplaceordering 0.1.0: Microsoft Azure Market Place Ordering Client Library
+dev-python/azure-mgmt-media 1.0.1 1.1.1: Microsoft Azure Media Services Client Library
+dev-python/azure-mgmt-monitor 0.5.2 0.6.0 0.7.0: Microsoft Azure Monitor Management Client Library for Python
+dev-python/azure-mgmt-msi 0.2.0 1.0.0: Microsoft Azure MSI Management Client Library for Python
+dev-python/azure-mgmt-network 2.6.0 2.7.0 3.0.0: Microsoft Azure Network Resource Management Client Library for Python
+dev-python/azure-mgmt-policyinsights 0.2.0 0.3.1: Microsoft Azure Policy Insights client library
+dev-python/azure-mgmt-rdbms 1.7.1 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
+dev-python/azure-mgmt-recoveryservices 0.2.0 0.2.0-r1: Microsoft Azure Recovery Services Client Library for Python
+dev-python/azure-mgmt-recoveryservicesbackup 0.3.0 0.4.0: Microsoft Azure Recovery Services Backup Client Library for Python
+dev-python/azure-mgmt-redis 6.0.0 6.0.0-r1: Microsoft Azure Redis Cache Resource Management Client Library for Python
+dev-python/azure-mgmt-relay 0.1.0 0.2.0: Microsoft Azure Relay Client Library
+dev-python/azure-mgmt-reservations 0.3.1 0.3.2: Microsoft Azure Reservations Management Client Library for Python
+dev-python/azure-mgmt-resource 2.1.0 2.2.0 3.0.0: Microsoft Azure Resource Management Client Library for Python
+dev-python/azure-mgmt-search 2.0.0: Microsoft Azure Search Management Client Library for Python
+dev-python/azure-mgmt-security 0.1.0 0.2.0: Microsoft Azure security center management client library for Python
+dev-python/azure-mgmt-servicebus 0.5.3 0.6.0: Microsoft Azure Service Bus Management Client Library
+dev-python/azure-mgmt-servicefabric 0.2.0 0.2.0-r1 0.3.0: Microsoft Azure Service Fabric Management Client Library for Python
+dev-python/azure-mgmt-signalr 0.1.1 0.2.0: Microsoft Azure SignalR client library
+dev-python/azure-mgmt-sql 0.11.0 0.12.0: Microsoft Azure SQL Management Client Library for Python
+dev-python/azure-mgmt-sqlvirtualmachine 0.2.0 0.3.0: Microsoft Azure SQL virtual machine management client library for Python
+dev-python/azure-mgmt-storage 3.1.1 3.3.0 4.0.0: Microsoft Azure Storage Resource Management Client Library for Python
+dev-python/azure-mgmt-trafficmanager 0.51.0 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
+dev-python/azure-mgmt-web 0.40.0 0.41.0 0.42.0: Microsoft Azure Web Apps Resource Management Client Library for Python
+dev-python/azure-multiapi-storage 0.2.2 0.2.3 0.2.4: Microsoft Azure Storage Client Library for Python
+dev-python/azure-servicemanagement-legacy 0.20.6: Microsoft Azure Legacy Service Management Client Library for Python
+dev-python/azure-storage-blob 1.3.1 2.0.1: Azure client library that makes it easy to consume Azure Storage services
+dev-python/azure-storage-common 1.3.0 2.0.0: Azure client library that makes it easy to consume Azure Storage services
+dev-python/fabric 2.4.0: A simple pythonic tool for remote execution and deployment
+dev-python/fdb 1.8 2.0.0: Firebird RDBMS bindings for Python.
+dev-python/humanfriendly 4.18: Human friendly output for text interfaces using Python
+dev-python/knack 0.5.4 0.6.2: A Command-Line Interface framework
+dev-python/msrest 0.5.5 0.6.6: AutoRest swagger generator Python client runtime
+dev-python/msrestazure 0.5.1 0.6.0: AutoRest swagger generator Python client runtime. Azure-specific module
+dev-python/portalocker 1.2.1 1.4.0: Library to provide an easy API to file locking
+dev-python/pydocumentdb 2.3.3 2.3.3-r1: Azure DocumentDB Python SDK
+dev-python/requests-oauthlib 1.2.0: This project provides first-class OAuth library support for Requests
+dev-python/scp 0.13.2: scp module for paramiko
+dev-python/sshtunnel 0.1.4-r2: Pure python SSH tunnels
+dev-python/tabulate 0.8.3: Pretty-print tabular data
+dev-python/vsts 0.1.18 0.1.25: Python wrapper around the VSTS APIs
+dev-python/vsts-cd-manager 1.0.2 1.0.2-r1: Python wrapper around some of the VSTS APIs
+games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
+games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
+games-arcade/diamond-girl 1.25.2 2.0.1 9999: Single player puzzle game with a time constraint
+games-arcade/doubledash 0.5.1: A split-screen multiplayer remake of BoulderDash game
+games-arcade/epiphany 0.7.0 9999: Clone of Boulderdash (a.k.a Emerald Mine on the Amiga)
+games-arcade/gdash 20130427 20180129: Clone of Boulderdash (a.k.a Emerald Mine on the Amiga)
+games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
+media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
+media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
+media-sound/tinysid 0.94: Console SID file player. Very small and light.
+net-misc/azure-cli 2.0.61-r1 2.0.66 2.0.68: Microsoft Azure Command-Line Tools
+net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
