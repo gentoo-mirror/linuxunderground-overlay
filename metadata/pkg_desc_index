@@ -26,7 +26,7 @@ dev-python/azure-cli-cognitiveservices 0.2.5 0.2.6: Microsoft Azure Command-Line
 dev-python/azure-cli-configure 2.0.20 2.0.23 2.0.24: Microsoft Azure Command-Line Tools Configure Command Module
 dev-python/azure-cli-consumption 0.4.2 0.4.3 0.4.4: Microsoft Azure Command-Line Tools Consumption Command Module
 dev-python/azure-cli-container 0.3.15 0.3.17 0.3.18: Microsoft Azure Command-Line Tools container Command Module
-dev-python/azure-cli-core 2.0.61 2.0.66 2.0.68: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-core 2.0.61 2.0.66 2.0.68 2.0.71: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-cosmosdb 0.2.9 0.2.10 0.2.11: Microsoft Azure Command-Line Tools Cosmos DB Command Module
 dev-python/azure-cli-dla 0.2.5 0.2.6: Microsoft Azure Command-Line Tools Data Lake Analytics Command Module
 dev-python/azure-cli-dls 0.1.8 0.1.9 0.1.10: Microsoft Azure Command-Line Tools Data Lake Store Command Module
@@ -47,7 +47,7 @@ dev-python/azure-cli-maps 0.3.4 0.3.5: Microsoft Azure CLI maps Command Module
 dev-python/azure-cli-monitor 0.2.11 0.2.14 0.2.15: Microsoft Azure Command-Line Tools Monitor Command Module
 dev-python/azure-cli-network 2.3.5 2.5.1 2.5.2: Microsoft Azure Command-Line Tools Network Command Module
 dev-python/azure-cli-policyinsights 0.1.2 0.1.3 0.1.4: Microsoft Azure CLI policyinsights command module
-dev-python/azure-cli-profile 2.1.4 2.1.5: Microsoft Azure Command-Line Tools Profile Command Module
+dev-python/azure-cli-profile 2.1.4 2.1.5-r1: Microsoft Azure Command-Line Tools Profile Command Module
 dev-python/azure-cli-rdbms 0.3.9 0.3.11 0.3.12: Microsoft Azure Command-Line Tools MySQL and PostgreSQL Command Module
 dev-python/azure-cli-redis 0.4.2 0.4.3 0.4.4: Microsoft Azure Command-Line Tools Redis Command Module
 dev-python/azure-cli-relay 0.1.4 0.1.5: Microsoft Azure CLI 'relay' command module
@@ -151,5 +151,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.0.61-r1 2.0.66 2.0.68: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.0.61-r1 2.0.66 2.0.68 2.0.71: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
