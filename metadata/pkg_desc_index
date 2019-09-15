@@ -119,10 +119,10 @@ dev-python/azure-mgmt-servicefabric 0.2.0 0.2.0-r1 0.3.0: Microsoft Azure Servic
 dev-python/azure-mgmt-signalr 0.1.1 0.2.0: Microsoft Azure SignalR client library
 dev-python/azure-mgmt-sql 0.11.0 0.12.0: Microsoft Azure SQL Management Client Library for Python
 dev-python/azure-mgmt-sqlvirtualmachine 0.2.0 0.3.0: Microsoft Azure SQL virtual machine management client library for Python
-dev-python/azure-mgmt-storage 3.1.1 3.3.0 4.0.0: Microsoft Azure Storage Resource Management Client Library for Python
+dev-python/azure-mgmt-storage 4.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 0.40.0 0.41.0 0.42.0: Microsoft Azure Web Apps Resource Management Client Library for Python
-dev-python/azure-multiapi-storage 0.2.2 0.2.3 0.2.4: Microsoft Azure Storage Client Library for Python
+dev-python/azure-multiapi-storage 0.2.4: Microsoft Azure Storage Client Library for Python
 dev-python/azure-servicemanagement-legacy 0.20.6: Microsoft Azure Legacy Service Management Client Library for Python
 dev-python/azure-storage-blob 1.3.1 2.0.1: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-storage-common 1.3.0 2.0.0: Azure client library that makes it easy to consume Azure Storage services
