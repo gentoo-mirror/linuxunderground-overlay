@@ -67,7 +67,7 @@ dev-python/azure-common 1.1.18 1.1.22 1.1.23: Microsoft Azure Client Library for
 dev-python/azure-datalake-store 0.0.39 0.0.46: Azure Data Lake Store Filesystem Client Library for Python
 dev-python/azure-functions-devops-build 0.0.11 0.0.22: Python package for integrating azure functions with azure devops
 dev-python/azure-graphrbac 0.61.0 0.61.1: Microsoft Azure Graph RBAC Resource Management Client Library for Python
-dev-python/azure-keyvault 1.1.0 1.1.0-r1: Microsoft Azure Key Vault Client Library for Python
+dev-python/azure-keyvault 1.1.0-r1: Microsoft Azure Key Vault Client Library for Python
 dev-python/azure-mgmt-advisor 2.0.1 2.0.1-r1: Microsoft Azure Advisor Client Library for Python
 dev-python/azure-mgmt-applicationinsights 0.1.1 0.1.1-r1 0.2.0: Microsoft Azure Application Insights Management Client Library for Python
 dev-python/azure-mgmt-authorization 0.60.0: Microsoft Azure Authorization Management Client Library for Python
@@ -77,7 +77,7 @@ dev-python/azure-mgmt-billing 0.2.0 0.2.0-r1: Microsoft Azure Billing Management
 dev-python/azure-mgmt-botservice 0.1.0 0.2.0: Microsoft Azure Bot Service client library
 dev-python/azure-mgmt-cdn 3.0.0 3.1.0: Microsoft Azure CDN Resource Management Client Library for Python
 dev-python/azure-mgmt-cognitiveservices 3.0.0 5.0.0: Microsoft Azure Cognitive Services Management Client Library for Python
-dev-python/azure-mgmt-compute 4.4.0 5.0.0: Microsoft Azure Compute Resource Management Client Library for Python
+dev-python/azure-mgmt-compute 5.0.0 6.0.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-consumption 2.0.0 2.0.0-r1: Microsoft Azure Consumption Management Client Library for Python
 dev-python/azure-mgmt-containerinstance 1.4.0 1.5.0: Microsoft Azure Container Instance Client Library for Python
 dev-python/azure-mgmt-containerregistry 2.7.0 2.8.0: Microsoft Azure Container Registry Client Library for Python
@@ -94,15 +94,15 @@ dev-python/azure-mgmt-hdinsight 0.2.1 1.0.0 1.1.0: Microsoft Azure HDInsight Man
 dev-python/azure-mgmt-iotcentral 1.0.0 1.0.0-r1: Microsoft Azure IoTCentral management client library
 dev-python/azure-mgmt-iothub 0.7.0 0.8.2: Microsoft Azure IoTHub Management Client Library for Python
 dev-python/azure-mgmt-iothubprovisioningservices 0.2.0 0.2.0-r1: Microsoft Azure IoTHub Provisioning Services Client Library for Python
-dev-python/azure-mgmt-keyvault 1.1.0 1.1.0-r1 2.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
+dev-python/azure-mgmt-keyvault 2.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
 dev-python/azure-mgmt-kusto 0.2.0 0.3.0: Microsoft Azure Kusto management client library for Python
 dev-python/azure-mgmt-loganalytics 0.2.0 0.2.0-r1: Microsoft Azure Log Analytics Management Client Library
 dev-python/azure-mgmt-managementgroups 0.2.0-r1: Microsoft Azure Management Groups Client Library
 dev-python/azure-mgmt-maps 0.1.0 0.1.0-r1: Microsoft Azure Maps client library
-dev-python/azure-mgmt-marketplaceordering 0.1.0: Microsoft Azure Market Place Ordering Client Library
+dev-python/azure-mgmt-marketplaceordering 0.2.1: Microsoft Azure Market Place Ordering Client Library
 dev-python/azure-mgmt-media 1.0.1 1.1.1: Microsoft Azure Media Services Client Library
 dev-python/azure-mgmt-monitor 0.5.2 0.6.0 0.7.0: Microsoft Azure Monitor Management Client Library for Python
-dev-python/azure-mgmt-msi 0.2.0 1.0.0: Microsoft Azure MSI Management Client Library for Python
+dev-python/azure-mgmt-msi 1.0.0: Microsoft Azure MSI Management Client Library for Python
 dev-python/azure-mgmt-network 3.0.0 4.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.2.0 0.3.1: Microsoft Azure Policy Insights client library
 dev-python/azure-mgmt-rdbms 1.7.1 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
