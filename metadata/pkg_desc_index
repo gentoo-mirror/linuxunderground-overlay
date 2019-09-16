@@ -117,8 +117,8 @@ dev-python/azure-mgmt-security 0.1.0 0.2.0: Microsoft Azure security center mana
 dev-python/azure-mgmt-servicebus 0.5.3 0.6.0: Microsoft Azure Service Bus Management Client Library
 dev-python/azure-mgmt-servicefabric 0.2.0 0.2.0-r1 0.3.0: Microsoft Azure Service Fabric Management Client Library for Python
 dev-python/azure-mgmt-signalr 0.1.1 0.2.0: Microsoft Azure SignalR client library
-dev-python/azure-mgmt-sql 0.11.0 0.12.0: Microsoft Azure SQL Management Client Library for Python
-dev-python/azure-mgmt-sqlvirtualmachine 0.2.0 0.3.0: Microsoft Azure SQL virtual machine management client library for Python
+dev-python/azure-mgmt-sql 0.12.0: Microsoft Azure SQL Management Client Library for Python
+dev-python/azure-mgmt-sqlvirtualmachine 0.3.0 0.4.0: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 4.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 0.40.0 0.41.0 0.42.0: Microsoft Azure Web Apps Resource Management Client Library for Python
