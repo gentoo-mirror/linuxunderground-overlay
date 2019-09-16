@@ -7,8 +7,8 @@ PYTHON_COMPAT=( python3_{5,6,7} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Key Vault Client Library for Python"
-HOMEPAGE="https://pypi.org/project/azure-keyvault"
+DESCRIPTION="Microsoft Azure Market Place Ordering Client Library"
+HOMEPAGE="https://pypi.org/project/azure-mgmt-marketplaceordering"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.zip"
 
 KEYWORDS="~amd64 ~arm ~x86"
@@ -20,15 +20,3 @@ RDEPEND=">=dev-python/msrestazure-0.5.5[${PYTHON_USEDEP}]
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
-
-python_install() {
-	distutils-r1_python_install
-
-	python_export PYTHON_SITEDIR
-
-	# __init__.py are provided by net-misc/azure-cli
-	rm "${ED}${PYTHON_SITEDIR}/azure/__init__.py" || die
-
-	# Avoid portage file collisions
-	rm -r "${ED}${PYTHON_SITEDIR}/azure/__pycache__" || die
-}
