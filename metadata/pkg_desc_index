@@ -106,8 +106,8 @@ dev-python/azure-mgmt-msi 1.0.0: Microsoft Azure MSI Management Client Library f
 dev-python/azure-mgmt-network 3.0.0 4.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.2.0 0.3.1: Microsoft Azure Policy Insights client library
 dev-python/azure-mgmt-rdbms 1.7.1 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
-dev-python/azure-mgmt-recoveryservices 0.2.0 0.2.0-r1: Microsoft Azure Recovery Services Client Library for Python
-dev-python/azure-mgmt-recoveryservicesbackup 0.3.0 0.4.0: Microsoft Azure Recovery Services Backup Client Library for Python
+dev-python/azure-mgmt-recoveryservices 0.2.0-r1 0.4.0: Microsoft Azure Recovery Services Client Library for Python
+dev-python/azure-mgmt-recoveryservicesbackup 0.4.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redis 6.0.0 6.0.0-r1: Microsoft Azure Redis Cache Resource Management Client Library for Python
 dev-python/azure-mgmt-relay 0.1.0 0.2.0: Microsoft Azure Relay Client Library
 dev-python/azure-mgmt-reservations 0.3.1 0.3.2: Microsoft Azure Reservations Management Client Library for Python
