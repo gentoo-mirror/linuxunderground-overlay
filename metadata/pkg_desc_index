@@ -65,11 +65,11 @@ dev-python/azure-cli-telemetry 1.0.2 1.0.2-r1 1.0.3: Microsoft Azure CLI Telemet
 dev-python/azure-cli-vm 2.2.17 2.2.22 2.2.23: Microsoft Azure Command-Line Tools VM Command Module
 dev-python/azure-common 1.1.18 1.1.22 1.1.23: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-datalake-store 0.0.39 0.0.46: Azure Data Lake Store Filesystem Client Library for Python
-dev-python/azure-functions-devops-build 0.0.11 0.0.22: Python package for integrating azure functions with azure devops
+dev-python/azure-functions-devops-build 0.0.22: Python package for integrating azure functions with azure devops
 dev-python/azure-graphrbac 0.61.0 0.61.1: Microsoft Azure Graph RBAC Resource Management Client Library for Python
 dev-python/azure-keyvault 1.1.0-r1: Microsoft Azure Key Vault Client Library for Python
 dev-python/azure-mgmt-advisor 2.0.1 2.0.1-r1: Microsoft Azure Advisor Client Library for Python
-dev-python/azure-mgmt-applicationinsights 0.1.1 0.1.1-r1 0.2.0: Microsoft Azure Application Insights Management Client Library for Python
+dev-python/azure-mgmt-applicationinsights 0.2.0: Microsoft Azure Application Insights Management Client Library for Python
 dev-python/azure-mgmt-authorization 0.60.0: Microsoft Azure Authorization Management Client Library for Python
 dev-python/azure-mgmt-batch 6.0.0 6.0.0-r1: Microsoft Azure Batch Management Client Library for Python
 dev-python/azure-mgmt-batchai 2.0.0 2.0.0-r1: Microsoft Azure Batch AI Management Client Library for Python
@@ -121,7 +121,7 @@ dev-python/azure-mgmt-sql 0.12.0: Microsoft Azure SQL Management Client Library 
 dev-python/azure-mgmt-sqlvirtualmachine 0.3.0 0.4.0: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 4.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
-dev-python/azure-mgmt-web 0.40.0 0.41.0 0.42.0: Microsoft Azure Web Apps Resource Management Client Library for Python
+dev-python/azure-mgmt-web 0.42.0: Microsoft Azure Web Apps Resource Management Client Library for Python
 dev-python/azure-multiapi-storage 0.2.4: Microsoft Azure Storage Client Library for Python
 dev-python/azure-servicemanagement-legacy 0.20.6: Microsoft Azure Legacy Service Management Client Library for Python
 dev-python/azure-storage-blob 1.3.1 2.0.1: Azure client library that makes it easy to consume Azure Storage services
@@ -129,7 +129,7 @@ dev-python/azure-storage-common 1.3.0 2.0.0: Azure client library that makes it 
 dev-python/fabric 2.4.0: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.0 2.0.1: Firebird RDBMS bindings for Python.
 dev-python/humanfriendly 4.18: Human friendly output for text interfaces using Python
-dev-python/knack 0.5.4 0.6.2: A Command-Line Interface framework
+dev-python/knack 0.6.3: A Command-Line Interface framework
 dev-python/msrest 0.5.5 0.6.10: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.5.1 0.6.0: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/portalocker 1.2.1 1.4.0: Library to provide an easy API to file locking
@@ -139,7 +139,7 @@ dev-python/scp 0.13.2: scp module for paramiko
 dev-python/sshtunnel 0.1.4-r2: Pure python SSH tunnels
 dev-python/tabulate 0.8.3: Pretty-print tabular data
 dev-python/vsts 0.1.18 0.1.25: Python wrapper around the VSTS APIs
-dev-python/vsts-cd-manager 1.0.2 1.0.2-r1: Python wrapper around some of the VSTS APIs
+dev-python/vsts-cd-manager 1.0.2-r1: Python wrapper around some of the VSTS APIs
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
 games-arcade/diamond-girl 1.25.2 2.0.1 9999: Single player puzzle game with a time constraint
