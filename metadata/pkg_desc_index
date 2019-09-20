@@ -105,7 +105,7 @@ dev-python/azure-mgmt-monitor 0.7.0: Microsoft Azure Monitor Management Client L
 dev-python/azure-mgmt-msi 1.0.0: Microsoft Azure MSI Management Client Library for Python
 dev-python/azure-mgmt-network 3.0.0 4.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.2.0 0.3.1: Microsoft Azure Policy Insights client library
-dev-python/azure-mgmt-rdbms 1.7.1 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
+dev-python/azure-mgmt-rdbms 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-recoveryservices 0.2.0-r1 0.4.0: Microsoft Azure Recovery Services Client Library for Python
 dev-python/azure-mgmt-recoveryservicesbackup 0.4.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redis 6.0.0 6.0.0-r1: Microsoft Azure Redis Cache Resource Management Client Library for Python
@@ -115,8 +115,8 @@ dev-python/azure-mgmt-resource 3.1.0: Microsoft Azure Resource Management Client
 dev-python/azure-mgmt-search 2.0.0 2.1.0: Microsoft Azure Search Management Client Library for Python
 dev-python/azure-mgmt-security 0.1.0 0.2.0: Microsoft Azure security center management client library for Python
 dev-python/azure-mgmt-servicebus 0.5.3 0.6.0: Microsoft Azure Service Bus Management Client Library
-dev-python/azure-mgmt-servicefabric 0.2.0 0.2.0-r1 0.3.0: Microsoft Azure Service Fabric Management Client Library for Python
-dev-python/azure-mgmt-signalr 0.1.1 0.2.0: Microsoft Azure SignalR client library
+dev-python/azure-mgmt-servicefabric 0.3.0: Microsoft Azure Service Fabric Management Client Library for Python
+dev-python/azure-mgmt-signalr 0.3.0: Microsoft Azure SignalR client library
 dev-python/azure-mgmt-sql 0.12.0: Microsoft Azure SQL Management Client Library for Python
 dev-python/azure-mgmt-sqlvirtualmachine 0.3.0 0.4.0: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 4.0.0: Microsoft Azure Storage Resource Management Client Library for Python
