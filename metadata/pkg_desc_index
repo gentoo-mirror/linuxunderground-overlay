@@ -95,7 +95,7 @@ dev-python/azure-mgmt-iotcentral 1.0.0 1.0.0-r1: Microsoft Azure IoTCentral mana
 dev-python/azure-mgmt-iothub 0.7.0 0.8.2: Microsoft Azure IoTHub Management Client Library for Python
 dev-python/azure-mgmt-iothubprovisioningservices 0.2.0 0.2.0-r1: Microsoft Azure IoTHub Provisioning Services Client Library for Python
 dev-python/azure-mgmt-keyvault 2.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
-dev-python/azure-mgmt-kusto 0.2.0 0.3.0: Microsoft Azure Kusto management client library for Python
+dev-python/azure-mgmt-kusto 0.3.0: Microsoft Azure Kusto management client library for Python
 dev-python/azure-mgmt-loganalytics 0.2.0 0.2.0-r1: Microsoft Azure Log Analytics Management Client Library
 dev-python/azure-mgmt-managementgroups 0.2.0-r1: Microsoft Azure Management Groups Client Library
 dev-python/azure-mgmt-maps 0.1.0-r1: Microsoft Azure Maps client library
