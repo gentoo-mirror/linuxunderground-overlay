@@ -64,7 +64,7 @@ dev-python/azure-cli-storage 2.3.2 2.4.2 2.4.3: Microsoft Azure Command-Line Too
 dev-python/azure-cli-telemetry 1.0.2 1.0.2-r1 1.0.3: Microsoft Azure CLI Telemetry Package
 dev-python/azure-cli-vm 2.2.17 2.2.22 2.2.23: Microsoft Azure Command-Line Tools VM Command Module
 dev-python/azure-common 1.1.18 1.1.22 1.1.23: Microsoft Azure Client Library for Python (Common)
-dev-python/azure-datalake-store 0.0.39 0.0.46: Azure Data Lake Store Filesystem Client Library for Python
+dev-python/azure-datalake-store 0.0.47: Azure Data Lake Store Filesystem Client Library for Python
 dev-python/azure-functions-devops-build 0.0.22: Python package for integrating azure functions with azure devops
 dev-python/azure-graphrbac 0.61.0 0.61.1: Microsoft Azure Graph RBAC Resource Management Client Library for Python
 dev-python/azure-keyvault 1.1.0-r1: Microsoft Azure Key Vault Client Library for Python
@@ -84,7 +84,7 @@ dev-python/azure-mgmt-containerregistry 2.8.0 3.0.0_rc5: Microsoft Azure Contain
 dev-python/azure-mgmt-containerservice 5.3.0 7.0.0: Microsoft Azure Container Service Client Library for Python
 dev-python/azure-mgmt-cosmosdb 0.5.2 0.7.0: Microsoft Azure Cosmos DB Management Client Library for Python
 dev-python/azure-mgmt-datalake-analytics 0.2.0 0.3.0: Microsoft Azure Data Lake Analytics Management Client Library for Python
-dev-python/azure-mgmt-datalake-store 0.5.0 0.5.0-r1: Microsoft Azure Data Lake Store Management Client Library for Python
+dev-python/azure-mgmt-datalake-store 0.5.0-r1: Microsoft Azure Data Lake Store Management Client Library for Python
 dev-python/azure-mgmt-datamigration 1.0.0 2.2.0: Microsoft Azure Data Migration Client Library
 dev-python/azure-mgmt-devtestlabs 3.0.0: Microsoft Azure DevTest Labs Management Client Library for Python
 dev-python/azure-mgmt-dns 2.1.0 2.1.0-r1 3.0.0: Microsoft Azure DNS Management Client Library for Python
