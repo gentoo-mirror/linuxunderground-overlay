@@ -88,7 +88,7 @@ dev-python/azure-mgmt-datalake-store 0.5.0 0.5.0-r1: Microsoft Azure Data Lake S
 dev-python/azure-mgmt-datamigration 1.0.0 2.2.0: Microsoft Azure Data Migration Client Library
 dev-python/azure-mgmt-devtestlabs 3.0.0: Microsoft Azure DevTest Labs Management Client Library for Python
 dev-python/azure-mgmt-dns 2.1.0 2.1.0-r1 3.0.0: Microsoft Azure DNS Management Client Library for Python
-dev-python/azure-mgmt-eventgrid 2.0.0 2.2.0: Microsoft Azure EventGrid Management Client Library for Python
+dev-python/azure-mgmt-eventgrid 2.2.0: Microsoft Azure EventGrid Management Client Library for Python
 dev-python/azure-mgmt-eventhub 3.0.0: Microsoft Azure EventHub Management Client Library
 dev-python/azure-mgmt-hdinsight 1.2.0: Microsoft Azure HDInsight Management Client Library
 dev-python/azure-mgmt-iotcentral 1.0.0-r1: Microsoft Azure IoTCentral management client library
