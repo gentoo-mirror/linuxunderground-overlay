@@ -76,14 +76,14 @@ dev-python/azure-mgmt-batchai 2.0.0 2.0.0-r1: Microsoft Azure Batch AI Managemen
 dev-python/azure-mgmt-billing 0.2.0 0.2.0-r1: Microsoft Azure Billing Management Client Library for Python
 dev-python/azure-mgmt-botservice 0.1.0 0.2.0: Microsoft Azure Bot Service client library
 dev-python/azure-mgmt-cdn 3.0.0 3.1.0: Microsoft Azure CDN Resource Management Client Library for Python
-dev-python/azure-mgmt-cognitiveservices 3.0.0 5.0.0: Microsoft Azure Cognitive Services Management Client Library for Python
+dev-python/azure-mgmt-cognitiveservices 5.0.0: Microsoft Azure Cognitive Services Management Client Library for Python
 dev-python/azure-mgmt-compute 5.0.0 8.0.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-consumption 2.0.0 2.0.0-r1: Microsoft Azure Consumption Management Client Library for Python
 dev-python/azure-mgmt-containerinstance 1.5.0: Microsoft Azure Container Instance Client Library for Python
 dev-python/azure-mgmt-containerregistry 2.8.0 3.0.0_rc5: Microsoft Azure Container Registry Client Library for Python
 dev-python/azure-mgmt-containerservice 5.3.0 7.0.0: Microsoft Azure Container Service Client Library for Python
-dev-python/azure-mgmt-cosmosdb 0.5.2 0.7.0: Microsoft Azure Cosmos DB Management Client Library for Python
-dev-python/azure-mgmt-datalake-analytics 0.2.0 0.3.0: Microsoft Azure Data Lake Analytics Management Client Library for Python
+dev-python/azure-mgmt-cosmosdb 0.7.0 0.8.0: Microsoft Azure Cosmos DB Management Client Library for Python
+dev-python/azure-mgmt-datalake-analytics 0.3.0: Microsoft Azure Data Lake Analytics Management Client Library for Python
 dev-python/azure-mgmt-datalake-store 0.5.0-r1: Microsoft Azure Data Lake Store Management Client Library for Python
 dev-python/azure-mgmt-datamigration 1.0.0 2.2.0: Microsoft Azure Data Migration Client Library
 dev-python/azure-mgmt-devtestlabs 3.0.0: Microsoft Azure DevTest Labs Management Client Library for Python
@@ -133,7 +133,7 @@ dev-python/knack 0.6.3: A Command-Line Interface framework
 dev-python/msrest 0.6.10: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.2: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/portalocker 1.2.1 1.4.0: Library to provide an easy API to file locking
-dev-python/pydocumentdb 2.3.3 2.3.3-r1: Azure DocumentDB Python SDK
+dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
 dev-python/requests-oauthlib 1.2.0: This project provides first-class OAuth library support for Requests
 dev-python/scp 0.13.2: scp module for paramiko
 dev-python/sshtunnel 0.1.4-r2: Pure python SSH tunnels
