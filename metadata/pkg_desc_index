@@ -130,8 +130,8 @@ dev-python/fabric 2.4.0: A simple pythonic tool for remote execution and deploym
 dev-python/fdb 2.0.0 2.0.1: Firebird RDBMS bindings for Python.
 dev-python/humanfriendly 4.18: Human friendly output for text interfaces using Python
 dev-python/knack 0.6.3: A Command-Line Interface framework
-dev-python/msrest 0.5.5 0.6.10: AutoRest swagger generator Python client runtime
-dev-python/msrestazure 0.5.1 0.6.0: AutoRest swagger generator Python client runtime. Azure-specific module
+dev-python/msrest 0.6.10: AutoRest swagger generator Python client runtime
+dev-python/msrestazure 0.6.2: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/portalocker 1.2.1 1.4.0: Library to provide an easy API to file locking
 dev-python/pydocumentdb 2.3.3 2.3.3-r1: Azure DocumentDB Python SDK
 dev-python/requests-oauthlib 1.2.0: This project provides first-class OAuth library support for Requests
