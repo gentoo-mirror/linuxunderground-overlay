@@ -73,9 +73,9 @@ dev-python/azure-mgmt-applicationinsights 0.2.0: Microsoft Azure Application Ins
 dev-python/azure-mgmt-authorization 0.60.0: Microsoft Azure Authorization Management Client Library for Python
 dev-python/azure-mgmt-batch 6.0.0 6.0.0-r1: Microsoft Azure Batch Management Client Library for Python
 dev-python/azure-mgmt-batchai 2.0.0 2.0.0-r1: Microsoft Azure Batch AI Management Client Library for Python
-dev-python/azure-mgmt-billing 0.2.0 0.2.0-r1: Microsoft Azure Billing Management Client Library for Python
-dev-python/azure-mgmt-botservice 0.1.0 0.2.0: Microsoft Azure Bot Service client library
-dev-python/azure-mgmt-cdn 3.0.0 3.1.0: Microsoft Azure CDN Resource Management Client Library for Python
+dev-python/azure-mgmt-billing 0.2.0-r1: Microsoft Azure Billing Management Client Library for Python
+dev-python/azure-mgmt-botservice 0.2.0: Microsoft Azure Bot Service client library
+dev-python/azure-mgmt-cdn 3.1.0: Microsoft Azure CDN Resource Management Client Library for Python
 dev-python/azure-mgmt-cognitiveservices 5.0.0: Microsoft Azure Cognitive Services Management Client Library for Python
 dev-python/azure-mgmt-compute 5.0.0 8.0.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-consumption 2.0.0-r1: Microsoft Azure Consumption Management Client Library for Python
