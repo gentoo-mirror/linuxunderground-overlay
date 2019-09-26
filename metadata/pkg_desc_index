@@ -8,7 +8,7 @@ dev-db/firebird 2.5.8.27089.0 3.0.3.32900.0 3.0.4.33054.0: Relational database o
 dev-python/PyKCS11 1.5.3 1.5.5: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.1 1.2.2: ADAL Python library
 dev-python/applicationinsights 0.11.7 0.11.9: This project extends the Application Insights API surface to support Python
-dev-python/azure-batch 6.0.1 6.0.1-r1 7.0.0: Microsoft Azure Batch Client Library for Python
+dev-python/azure-batch 8.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-acr 2.2.3 2.2.8 2.2.9: Microsoft Azure Command-Line Tools ACR Command Module
 dev-python/azure-cli-acs 2.3.20 2.4.3 2.4.4: Microsoft Azure Command-Line Tools ACS Command Module
 dev-python/azure-cli-advisor 2.0.0 2.0.1: Microsoft Azure Command-Line Tools Advisor Command Module
@@ -25,7 +25,7 @@ dev-python/azure-cli-cognitiveservices 0.2.5 0.2.6: Microsoft Azure Command-Line
 dev-python/azure-cli-configure 2.0.20 2.0.23 2.0.24: Microsoft Azure Command-Line Tools Configure Command Module
 dev-python/azure-cli-consumption 0.4.2 0.4.3 0.4.4: Microsoft Azure Command-Line Tools Consumption Command Module
 dev-python/azure-cli-container 0.3.15 0.3.17 0.3.18: Microsoft Azure Command-Line Tools container Command Module
-dev-python/azure-cli-core 2.0.71: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-core 2.0.71 2.0.74: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-cosmosdb 0.2.9 0.2.10 0.2.11: Microsoft Azure Command-Line Tools Cosmos DB Command Module
 dev-python/azure-cli-dla 0.2.5 0.2.6: Microsoft Azure Command-Line Tools Data Lake Analytics Command Module
 dev-python/azure-cli-dls 0.1.8 0.1.9 0.1.10: Microsoft Azure Command-Line Tools Data Lake Store Command Module
@@ -71,7 +71,7 @@ dev-python/azure-keyvault 1.1.0-r1: Microsoft Azure Key Vault Client Library for
 dev-python/azure-mgmt-advisor 2.0.1-r1: Microsoft Azure Advisor Client Library for Python
 dev-python/azure-mgmt-applicationinsights 0.2.0: Microsoft Azure Application Insights Management Client Library for Python
 dev-python/azure-mgmt-authorization 0.60.0: Microsoft Azure Authorization Management Client Library for Python
-dev-python/azure-mgmt-batch 6.0.0 6.0.0-r1: Microsoft Azure Batch Management Client Library for Python
+dev-python/azure-mgmt-batch 6.0.0-r1 7.0.0: Microsoft Azure Batch Management Client Library for Python
 dev-python/azure-mgmt-batchai 2.0.0 2.0.0-r1: Microsoft Azure Batch AI Management Client Library for Python
 dev-python/azure-mgmt-billing 0.2.0-r1: Microsoft Azure Billing Management Client Library for Python
 dev-python/azure-mgmt-botservice 0.2.0: Microsoft Azure Bot Service client library
@@ -150,5 +150,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.0.71: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.0.71 2.0.74: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
