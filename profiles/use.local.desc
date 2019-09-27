@@ -22,7 +22,6 @@ net-misc/azure-cli:ams - Install the ams module. i.e. 'az ams'
 net-misc/azure-cli:appservice - Install the appservice module. i.e. 'az appservice', 'az webapp' and 'az functionapp'
 net-misc/azure-cli:backup - Install the backup module. i.e. 'az backup'
 net-misc/azure-cli:batch - Install the batch module. i.e. 'az batch'
-net-misc/azure-cli:batchai - has been deprecated and will be removed by Microsoft
 net-misc/azure-cli:billing - Install the billing module. i.e. 'az billing'
 net-misc/azure-cli:bot - Install the bot service module. i.e. 'az bot'
 net-misc/azure-cli:cdn - Install the Content Delivery Network module. i.e. 'az cdn'
