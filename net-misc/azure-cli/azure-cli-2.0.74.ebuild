@@ -17,7 +17,7 @@ SLOT="0"
 
 IUSE="+acr +acs +advisor +ams +appservice +backup +batch +billing \
 	+bot +cdn +cloud +cognitiveservices +consumption +container +cosmosdb \
-	+dla +dls +dms +eventgrid +eventhubs extension +feedback find +hdinsight \
+	+dla +dls +dms +eventgrid +eventhubs extension +feedback +find +hdinsight \
 	interactive +iot +iotcentral +keyvault +kusto +lab +maps +monitor \
 	+network +policyinsights +rdbms +redis +relay +reservations +resource \
 	+role +search +security +servicebus +sf +signalr +sql +sqlvm +storage +vm"
@@ -139,10 +139,10 @@ CLI_DEPEND="
 		dev-python/websocket-client[${PYTHON_USEDEP}]
 	)
 	cognitiveservices? (
-		>=dev-python/azure-mgmt-cognitiveservices-5.0.0[${PYTHON_USEDEP}]	
+		>=dev-python/azure-mgmt-cognitiveservices-5.0.0[${PYTHON_USEDEP}]
 	)
 	consumption? (
-		>=dev-python/azure-mgmt-consumption-2.0.0[${PYTHON_USEDEP}]	
+		>=dev-python/azure-mgmt-consumption-2.0.0[${PYTHON_USEDEP}]
 	)
 	cosmosdb? (
 		>=dev-python/azure-mgmt-cosmosdb-0.7.0[${PYTHON_USEDEP}]
