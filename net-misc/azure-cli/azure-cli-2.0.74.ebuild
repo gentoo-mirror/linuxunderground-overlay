@@ -15,12 +15,13 @@ KEYWORDS="~amd64 ~arm ~x86"
 LICENSE="MIT"
 SLOT="0"
 
-IUSE="+acr +acs +advisor +ams +appservice +backup +batch +billing \
-	+bot +cdn +cloud +cognitiveservices +consumption +container +cosmosdb \
-	+dla +dls +dms +eventgrid +eventhubs extension +feedback +find +hdinsight \
-	interactive +iot +iotcentral +keyvault +kusto +lab +maps +monitor \
-	+network +policyinsights +rdbms +redis +relay +reservations +resource \
-	+role +search +security +servicebus +sf +signalr +sql +sqlvm +storage +vm"
+IUSE="+acr +acs +advisor +ams +apim +appconfig +appservice +backup +batch \
+	+billing +bot +cdn +cloud +cognitiveservices +consumption +container \
+	+cosmosdb +dla +dls +dms +eventgrid +eventhubs extension +feedback \
+	+find +hdinsight interactive +iot +iotcentral +keyvault +kusto +lab \
+	+maps +monitor +network +policyinsights +rdbms +redis +relay \
+	+reservations +resource +role +search +security +servicebus +sf \
+	+signalr +sql +sqlvm +storage +vm"
 
 OBSOLETE="!dev-python/azure-cli-batchai
 	!!dev-python/azure-cli-acr
@@ -99,6 +100,12 @@ CLI_DEPEND="
 	ams? (
 		>=dev-python/azure-graphrbac-0.61.1[${PYTHON_USEDEP}]
 		>=dev-python/azure-mgmt-media-1.1.1[${PYTHON_USEDEP}]
+	)
+	apim? (
+		>=dev-python/azure-mgmt-apimanagement-0.1.0[${PYTHON_USEDEP}]
+	)
+	appconfig? (
+		>=dev-python/azure-mgmt-appconfiguration-0.1.0[${PYTHON_USEDEP}]
 	)
 	appservice? (
 		virtual/python-cffi[${PYTHON_USEDEP}]
@@ -302,6 +309,8 @@ python_install() {
 	use acs || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/acs" || die
 	use advisor || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/advisor" || die
 	use ams || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/ams" || die
+	use apim || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/apim" || die
+	use appconfig || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/appconfig" || die
 	use appservice || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/appservice" || die
 	use backup || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/backup" || die
 	use batch || rm -r "${ED}${PYTHON_SITEDIR}/azure/cli/command_modules/batch" || die
