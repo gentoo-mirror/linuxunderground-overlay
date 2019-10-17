@@ -61,7 +61,7 @@ dev-python/azure-cli-signalr 1.0.0 1.0.0-r1 1.0.1: Microsoft Azure CLI signalr c
 dev-python/azure-cli-sql 2.2.0 2.2.4 2.2.5: Microsoft Azure Command-Line Tools SQL Command Module
 dev-python/azure-cli-sqlvm 0.1.1 0.2.0: Microsoft Azure command-line tools SQL virtual machine command module
 dev-python/azure-cli-storage 2.3.2 2.4.2 2.4.3: Microsoft Azure Command-Line Tools Storage Command Module
-dev-python/azure-cli-telemetry 1.0.2 1.0.2-r1 1.0.3: Microsoft Azure CLI Telemetry Package
+dev-python/azure-cli-telemetry 1.0.4: Microsoft Azure CLI Telemetry Package
 dev-python/azure-cli-vm 2.2.17 2.2.22 2.2.23: Microsoft Azure Command-Line Tools VM Command Module
 dev-python/azure-common 1.1.18 1.1.22 1.1.23: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-datalake-store 0.0.47: Azure Data Lake Store Filesystem Client Library for Python
