@@ -25,7 +25,7 @@ dev-python/azure-cli-cognitiveservices 0.2.5 0.2.6: Microsoft Azure Command-Line
 dev-python/azure-cli-configure 2.0.20 2.0.23 2.0.24: Microsoft Azure Command-Line Tools Configure Command Module
 dev-python/azure-cli-consumption 0.4.2 0.4.3 0.4.4: Microsoft Azure Command-Line Tools Consumption Command Module
 dev-python/azure-cli-container 0.3.15 0.3.17 0.3.18: Microsoft Azure Command-Line Tools container Command Module
-dev-python/azure-cli-core 2.0.71 2.0.74: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-core 2.0.74 2.0.75: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-cosmosdb 0.2.9 0.2.10 0.2.11: Microsoft Azure Command-Line Tools Cosmos DB Command Module
 dev-python/azure-cli-dla 0.2.5 0.2.6: Microsoft Azure Command-Line Tools Data Lake Analytics Command Module
 dev-python/azure-cli-dls 0.1.8 0.1.9 0.1.10: Microsoft Azure Command-Line Tools Data Lake Store Command Module
@@ -123,9 +123,9 @@ dev-python/azure-mgmt-security 0.2.0: Microsoft Azure security center management
 dev-python/azure-mgmt-servicebus 0.6.0: Microsoft Azure Service Bus Management Client Library
 dev-python/azure-mgmt-servicefabric 0.3.0: Microsoft Azure Service Fabric Management Client Library for Python
 dev-python/azure-mgmt-signalr 0.3.0: Microsoft Azure SignalR client library
-dev-python/azure-mgmt-sql 0.12.0: Microsoft Azure SQL Management Client Library for Python
+dev-python/azure-mgmt-sql 0.12.0 0.14.0: Microsoft Azure SQL Management Client Library for Python
 dev-python/azure-mgmt-sqlvirtualmachine 0.3.0 0.4.0: Microsoft Azure SQL virtual machine management client library for Python
-dev-python/azure-mgmt-storage 4.0.0: Microsoft Azure Storage Resource Management Client Library for Python
+dev-python/azure-mgmt-storage 4.2.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 0.42.0: Microsoft Azure Web Apps Resource Management Client Library for Python
 dev-python/azure-multiapi-storage 0.2.4: Microsoft Azure Storage Client Library for Python
@@ -156,5 +156,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.0.71 2.0.74: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.0.74 2.0.75: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
