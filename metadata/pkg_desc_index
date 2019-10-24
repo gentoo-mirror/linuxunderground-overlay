@@ -22,7 +22,6 @@ dev-python/azure-mgmt-appconfiguration 0.1.0: Microsoft Azure App Configuration 
 dev-python/azure-mgmt-applicationinsights 0.2.0: Microsoft Azure Application Insights Management Client Library for Python
 dev-python/azure-mgmt-authorization 0.60.0: Microsoft Azure Authorization Management Client Library for Python
 dev-python/azure-mgmt-batch 6.0.0-r1 7.0.0: Microsoft Azure Batch Management Client Library for Python
-dev-python/azure-mgmt-batchai 2.0.0 2.0.0-r1: Microsoft Azure Batch AI Management Client Library for Python
 dev-python/azure-mgmt-billing 0.2.0-r1: Microsoft Azure Billing Management Client Library for Python
 dev-python/azure-mgmt-botservice 0.2.0: Microsoft Azure Bot Service client library
 dev-python/azure-mgmt-cdn 3.1.0: Microsoft Azure CDN Resource Management Client Library for Python
@@ -74,7 +73,7 @@ dev-python/azure-mgmt-signalr 0.3.0: Microsoft Azure SignalR client library
 dev-python/azure-mgmt-sql 0.12.0 0.14.0: Microsoft Azure SQL Management Client Library for Python
 dev-python/azure-mgmt-sqlvirtualmachine 0.3.0 0.4.0: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 4.2.0: Microsoft Azure Storage Resource Management Client Library for Python
-dev-python/azure-mgmt-trafficmanager 0.51.0 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
+dev-python/azure-mgmt-trafficmanager 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 0.42.0: Microsoft Azure Web Apps Resource Management Client Library for Python
 dev-python/azure-multiapi-storage 0.2.4: Microsoft Azure Storage Client Library for Python
 dev-python/azure-servicemanagement-legacy 0.20.6: Microsoft Azure Legacy Service Management Client Library for Python
@@ -86,13 +85,13 @@ dev-python/humanfriendly 4.18: Human friendly output for text interfaces using P
 dev-python/knack 0.6.3: A Command-Line Interface framework
 dev-python/msrest 0.6.10: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.2: AutoRest swagger generator Python client runtime. Azure-specific module
-dev-python/portalocker 1.2.1 1.4.0: Library to provide an easy API to file locking
+dev-python/portalocker 1.2.1 1.5.1: Library to provide an easy API to file locking
 dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
 dev-python/requests-oauthlib 1.2.0: This project provides first-class OAuth library support for Requests
 dev-python/scp 0.13.2: scp module for paramiko
 dev-python/sshtunnel 0.1.4-r2: Pure python SSH tunnels
 dev-python/tabulate 0.8.3: Pretty-print tabular data
-dev-python/vsts 0.1.18 0.1.25: Python wrapper around the VSTS APIs
+dev-python/vsts 0.1.25: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r1: Python wrapper around some of the VSTS APIs
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
