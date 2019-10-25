@@ -55,7 +55,7 @@ dev-python/azure-mgmt-media 1.1.1: Microsoft Azure Media Services Client Library
 dev-python/azure-mgmt-monitor 0.7.0: Microsoft Azure Monitor Management Client Library for Python
 dev-python/azure-mgmt-msi 1.0.0: Microsoft Azure MSI Management Client Library for Python
 dev-python/azure-mgmt-netapp 0.5.0: Microsoft Azure netapp files management client library for Python
-dev-python/azure-mgmt-network 3.0.0 4.0.0: Microsoft Azure Network Resource Management Client Library for Python
+dev-python/azure-mgmt-network 4.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.3.1: Microsoft Azure Policy Insights client library
 dev-python/azure-mgmt-privatedns 0.1.0: Microsoft Azure DNS private zones client library for Python
 dev-python/azure-mgmt-rdbms 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
