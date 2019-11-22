@@ -10,6 +10,7 @@ dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.3.32900.0 3.0.4.33054.0: Relatio
 dev-python/PyKCS11 1.5.3 1.5.5: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.2: ADAL Python library
 dev-python/applicationinsights 0.11.9: This project extends the Application Insights API surface to support Python
+dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-batch 8.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.0.76: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.4: Microsoft Azure CLI Telemetry Package
@@ -86,10 +87,12 @@ dev-python/humanfriendly 4.18: Human friendly output for text interfaces using P
 dev-python/knack 0.6.3: A Command-Line Interface framework
 dev-python/msrest 0.6.10: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.2: AutoRest swagger generator Python client runtime. Azure-specific module
+dev-python/port-for 0.4: An utility and python library for TCP ports management
 dev-python/portalocker 1.2.1 1.5.1: Library to provide an easy API to file locking
 dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
 dev-python/requests-oauthlib 1.2.0: This project provides first-class OAuth library support for Requests
 dev-python/scp 0.13.2: scp module for paramiko
+dev-python/sphinx-autobuild 0.7.1: Autorebuild documentation on change
 dev-python/sshtunnel 0.1.5: Pure python SSH tunnels
 dev-python/tabulate 0.8.3: Pretty-print tabular data
 dev-python/vsts 0.1.25: Python wrapper around the VSTS APIs
