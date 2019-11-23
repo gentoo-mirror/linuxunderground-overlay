@@ -97,6 +97,7 @@ dev-python/sshtunnel 0.1.5: Pure python SSH tunnels
 dev-python/tabulate 0.8.3: Pretty-print tabular data
 dev-python/vsts 0.1.25: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r1: Python wrapper around some of the VSTS APIs
+dev-util/thonny 3.2.3: Python IDE meant for learning programming
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
 games-arcade/diamond-girl 1.25.2 2.0.1 9999: Single player puzzle game with a time constraint
