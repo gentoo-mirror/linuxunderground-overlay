@@ -82,6 +82,7 @@ dev-python/azure-mgmt-web 0.43.1: Microsoft Azure Web Apps Resource Management C
 dev-python/azure-multiapi-storage 0.2.4: Microsoft Azure Storage Client Library for Python
 dev-python/azure-storage-blob 2.1.0: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-storage-common 2.1.0: Azure client library that makes it easy to consume Azure Storage services
+dev-python/cli_helpers 0.2.3: Python helpers for common CLI tasks
 dev-python/fabric 2.5.0: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.1: Firebird RDBMS bindings for Python.
 dev-python/humanfriendly 4.18: Human friendly output for text interfaces using Python
