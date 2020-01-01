@@ -3,7 +3,9 @@
 # * generated automatically using pmaint *
 
 app-editors/qedit:aspell - Enable spell-checking, by using app-text/aspell
-app-emulation/dosemu2:fluidsynth - use media-sound/fluidsynth for MIDI emulation
+app-emulation/dosemu2:experimental - Build experimental features
+app-emulation/dosemu2:fdbin - Use FreeDos binary distribution of legacy dosemu instead of comcom32
+app-emulation/dosemu2:fluidsynth - Use media-sound/fluidsynth for MIDI emulation
 app-emulation/ti99sim:roms - Download the roms required for ti99sim.
 dev-db/firebird:client - Install client library and header files only (2.5.x only)
 dev-db/firebird:server - Install the server components of Firebird, not just the client (3.x.x only)

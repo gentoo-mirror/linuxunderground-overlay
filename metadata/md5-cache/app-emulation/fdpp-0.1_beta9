@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/stsp/fdpp
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 SLOT=0
-SRC_URI=https://codeload.github.com/stsp/fdpp/tar.gz/beta-8 -> fdpp-0.1_beta8.tar.gz
-_md5_=215bdbd0f174ddb6e741e06edc14dae8
+SRC_URI=https://codeload.github.com/stsp/fdpp/tar.gz/beta-8 -> fdpp-0.1_beta9.tar.gz
+_md5_=60f04ea9c97a8437269d9dec6a80d553
