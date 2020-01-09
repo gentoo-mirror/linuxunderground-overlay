@@ -12,7 +12,7 @@ dev-db/firebird:server - Install the server components of Firebird, not just the
 dev-db/firebird:superserver - Install SuperServer (2.5.x only)
 dev-db/firebird:xinetd - Install ClassicServer
 dev-python/fabric:fab2 - Install as "fab2", allowing side-by-side install with fabric 1.x
-dev-python/msrest:async - Install the experimental async support
+dev-python/msrest:async - Install async support
 games-arcade/SDLPoP:haptic - Enable the haptic (force feedback) subsystem
 games-arcade/diamond-girl:compressed-data - Use ogg files instead of wav + optimize size of png files
 games-arcade/diamond-girl:mixer - Enable media-libs/sdl-mixer support

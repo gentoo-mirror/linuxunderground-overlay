@@ -9,13 +9,13 @@ app-misc/eid-mw-sdk-c 0.2.3 0.2.4: GNU package that show how to use libbeidpkcs1
 dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.3.32900.0 3.0.4.33054.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-db/mssql-cli 0.17.3 9999: Command-line client for SQL Server with auto-completion and syntax highlighting
 dev-python/PyKCS11 1.5.3 1.5.7: A complete PKCS#11 wrapper for Python
-dev-python/adal 1.2.2: ADAL Python library
+dev-python/adal 1.2.2-r1: ADAL Python library
 dev-python/applicationinsights 0.11.9: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-batch 8.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.0.78: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.4: Microsoft Azure CLI Telemetry Package
-dev-python/azure-common 1.1.23: Microsoft Azure Client Library for Python (Common)
+dev-python/azure-common 1.1.24: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-datalake-store 0.0.48: Azure Data Lake Store Filesystem Client Library for Python
 dev-python/azure-functions-devops-build 0.0.22: Python package for integrating azure functions with azure devops
 dev-python/azure-graphrbac 0.61.1: Microsoft Azure Graph RBAC Resource Management Client Library for Python
@@ -88,8 +88,8 @@ dev-python/fabric 2.5.0: A simple pythonic tool for remote execution and deploym
 dev-python/fdb 2.0.1: Firebird RDBMS bindings for Python.
 dev-python/humanfriendly 4.18: Human friendly output for text interfaces using Python
 dev-python/knack 0.6.3: A Command-Line Interface framework
-dev-python/msrest 0.6.10: AutoRest swagger generator Python client runtime
-dev-python/msrestazure 0.6.2: AutoRest swagger generator Python client runtime. Azure-specific module
+dev-python/msrest 0.6.10-r1: AutoRest swagger generator Python client runtime
+dev-python/msrestazure 0.6.2-r1: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/port-for 0.4: An utility and python library for TCP ports management
 dev-python/portalocker 1.2.1 1.5.1: Library to provide an easy API to file locking
 dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
