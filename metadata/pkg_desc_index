@@ -111,5 +111,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.0.79: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.0.79-r1: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
