@@ -1,4 +1,4 @@
-app-crypt/acsccid 1.1.7: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
+app-crypt/acsccid 1.1.7 1.1.8: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-editors/featherpad 0.11.1 0.12.0 9999: Lightweight Qt5 Plain-Text Editor for Linux
 app-editors/qedit 2.8.1 2.8.3: Qt-based multi-purpose text editor
 app-emulation/comcom32-bin 0.1_p201912030201: 32 bit command.com
