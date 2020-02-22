@@ -10,6 +10,7 @@ dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.3.32900.0 3.0.4.33054.0: Relatio
 dev-db/mssql-cli 0.17.3 0.18.0 9999: Command-line client for SQL Server with auto-completion and syntax highlighting
 dev-python/PyKCS11 1.5.3 1.5.7: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.2-r1: ADAL Python library
+dev-python/aiodns 2.0.0-r2: Simple DNS resolver for asyncio
 dev-python/applicationinsights 0.11.9: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-batch 8.0.0: Microsoft Azure Batch Client Library for Python
@@ -87,8 +88,9 @@ dev-python/cli_helpers 0.2.3: Python helpers for common CLI tasks
 dev-python/fabric 2.5.0: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.1: Firebird RDBMS bindings for Python.
 dev-python/humanfriendly 4.18: Human friendly output for text interfaces using Python
+dev-python/isodate 0.6.0-r1: ISO 8601 date/time/duration parser and formatter
 dev-python/knack 0.6.3: A Command-Line Interface framework
-dev-python/msrest 0.6.10-r1: AutoRest swagger generator Python client runtime
+dev-python/msrest 0.6.11: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.2-r1: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/oauthlib 3.1.0: Spec-compliant and thorough implementation of the OAuth request-signing logic
 dev-python/port-for 0.4: An utility and python library for TCP ports management
