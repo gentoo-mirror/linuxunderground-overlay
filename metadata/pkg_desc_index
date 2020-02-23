@@ -45,12 +45,12 @@ dev-python/azure-mgmt-deploymentmanager 0.2.0: Microsoft Azure deployment manage
 dev-python/azure-mgmt-devtestlabs 3.0.0: Microsoft Azure DevTest Labs Management Client Library for Python
 dev-python/azure-mgmt-dns 3.0.0: Microsoft Azure DNS Management Client Library for Python
 dev-python/azure-mgmt-eventgrid 2.2.0: Microsoft Azure EventGrid Management Client Library for Python
-dev-python/azure-mgmt-eventhub 3.0.0: Microsoft Azure EventHub Management Client Library
+dev-python/azure-mgmt-eventhub 3.0.0-r1: Microsoft Azure EventHub Management Client Library
 dev-python/azure-mgmt-hdinsight 1.3.0: Microsoft Azure HDInsight Management Client Library
 dev-python/azure-mgmt-iotcentral 2.0.0: Microsoft Azure IoTCentral management client library
 dev-python/azure-mgmt-iothub 0.8.2: Microsoft Azure IoTHub Management Client Library for Python
 dev-python/azure-mgmt-iothubprovisioningservices 0.2.0-r1: Microsoft Azure IoTHub Provisioning Services Client Library for Python
-dev-python/azure-mgmt-keyvault 2.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
+dev-python/azure-mgmt-keyvault 2.1.1: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
 dev-python/azure-mgmt-kusto 0.3.0: Microsoft Azure Kusto management client library for Python
 dev-python/azure-mgmt-loganalytics 0.2.0-r1: Microsoft Azure Log Analytics Management Client Library
 dev-python/azure-mgmt-managedservices 1.0.0: Microsoft Azure managed services client library for Python
