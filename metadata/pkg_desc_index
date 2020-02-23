@@ -66,7 +66,7 @@ dev-python/azure-mgmt-policyinsights 0.4.0: Microsoft Azure Policy Insights clie
 dev-python/azure-mgmt-privatedns 0.1.0: Microsoft Azure DNS private zones client library for Python
 dev-python/azure-mgmt-rdbms 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-recoveryservices 0.4.0: Microsoft Azure Recovery Services Client Library for Python
-dev-python/azure-mgmt-recoveryservicesbackup 0.5.0: Microsoft Azure Recovery Services Backup Client Library for Python
+dev-python/azure-mgmt-recoveryservicesbackup 0.6.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redis 7.0.0_rc1: Microsoft Azure Redis Cache Resource Management Client Library for Python
 dev-python/azure-mgmt-relay 0.2.0: Microsoft Azure Relay Client Library
 dev-python/azure-mgmt-reservations 0.6.0: Microsoft Azure Reservations Management Client Library for Python
