@@ -14,7 +14,7 @@ dev-python/aiodns 2.0.0-r2: Simple DNS resolver for asyncio
 dev-python/applicationinsights 0.11.9-r1: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-batch 8.0.0: Microsoft Azure Batch Client Library for Python
-dev-python/azure-cli-core 2.0.81: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-core 2.1.0: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.4: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.24: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-cosmos 3.1.2: Microsoft Azure Cosmos DB SQL API client library for Python
@@ -25,7 +25,7 @@ dev-python/azure-keyvault 1.1.0-r2: Microsoft Azure Key Vault Client Library for
 dev-python/azure-loganalytics 0.1.0: Microsoft Azure log analytics client library for Python
 dev-python/azure-mgmt-advisor 2.0.1-r1: Microsoft Azure Advisor Client Library for Python
 dev-python/azure-mgmt-apimanagement 0.1.0: Microsoft Azure API Management Client Library for Python
-dev-python/azure-mgmt-appconfiguration 0.3.0: Microsoft Azure App Configuration Management Client Library for Python
+dev-python/azure-mgmt-appconfiguration 0.4.0: Microsoft Azure App Configuration Management Client Library for Python
 dev-python/azure-mgmt-applicationinsights 0.2.0: Microsoft Azure Application Insights Management Client Library for Python
 dev-python/azure-mgmt-authorization 0.60.0: Microsoft Azure Authorization Management Client Library for Python
 dev-python/azure-mgmt-batch 6.0.0-r1 7.0.0: Microsoft Azure Batch Management Client Library for Python
@@ -62,7 +62,7 @@ dev-python/azure-mgmt-media 1.1.1: Microsoft Azure Media Services Client Library
 dev-python/azure-mgmt-monitor 0.7.0: Microsoft Azure Monitor Management Client Library for Python
 dev-python/azure-mgmt-msi 1.0.0: Microsoft Azure MSI Management Client Library for Python
 dev-python/azure-mgmt-netapp 0.7.0: Microsoft Azure netapp files management client library for Python
-dev-python/azure-mgmt-network 7.0.0: Microsoft Azure Network Resource Management Client Library for Python
+dev-python/azure-mgmt-network 9.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.4.0: Microsoft Azure Policy Insights client library
 dev-python/azure-mgmt-privatedns 0.1.0: Microsoft Azure DNS private zones client library for Python
 dev-python/azure-mgmt-rdbms 1.9.0: Microsoft Azure RDBMS Management Client Library for Python
@@ -71,7 +71,7 @@ dev-python/azure-mgmt-recoveryservicesbackup 0.6.0: Microsoft Azure Recovery Ser
 dev-python/azure-mgmt-redis 7.0.0_rc1: Microsoft Azure Redis Cache Resource Management Client Library for Python
 dev-python/azure-mgmt-relay 0.2.0: Microsoft Azure Relay Client Library
 dev-python/azure-mgmt-reservations 0.6.0: Microsoft Azure Reservations Management Client Library for Python
-dev-python/azure-mgmt-resource 6.0.0: Microsoft Azure Resource Management Client Library for Python
+dev-python/azure-mgmt-resource 8.0.1: Microsoft Azure Resource Management Client Library for Python
 dev-python/azure-mgmt-search 2.1.0: Microsoft Azure Search Management Client Library for Python
 dev-python/azure-mgmt-security 0.2.0: Microsoft Azure security center management client library for Python
 dev-python/azure-mgmt-servicebus 0.6.0: Microsoft Azure Service Bus Management Client Library
@@ -115,5 +115,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.0.81: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.1.0: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
