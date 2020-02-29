@@ -15,7 +15,7 @@ dev-python/applicationinsights 0.11.9-r1: This project extends the Application I
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-batch 8.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.1.0: Microsoft Azure Command-Line Tools Core Module
-dev-python/azure-cli-telemetry 1.0.4: Microsoft Azure CLI Telemetry Package
+dev-python/azure-cli-telemetry 1.0.4-r1: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.24: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-cosmos 3.1.2: Microsoft Azure Cosmos DB SQL API client library for Python
 dev-python/azure-datalake-store 0.0.48: Azure Data Lake Store Filesystem Client Library for Python
@@ -43,7 +43,7 @@ dev-python/azure-mgmt-datalake-analytics 0.3.0: Microsoft Azure Data Lake Analyt
 dev-python/azure-mgmt-datalake-store 0.5.0-r1: Microsoft Azure Data Lake Store Management Client Library for Python
 dev-python/azure-mgmt-datamigration 2.2.0: Microsoft Azure Data Migration Client Library
 dev-python/azure-mgmt-deploymentmanager 0.2.0: Microsoft Azure deployment manager client library for Python
-dev-python/azure-mgmt-devtestlabs 3.0.0: Microsoft Azure DevTest Labs Management Client Library for Python
+dev-python/azure-mgmt-devtestlabs 3.0.0-r1: Microsoft Azure DevTest Labs Management Client Library for Python
 dev-python/azure-mgmt-dns 3.0.0: Microsoft Azure DNS Management Client Library for Python
 dev-python/azure-mgmt-eventgrid 2.2.0: Microsoft Azure EventGrid Management Client Library for Python
 dev-python/azure-mgmt-eventhub 3.0.0-r1: Microsoft Azure EventHub Management Client Library
@@ -52,11 +52,11 @@ dev-python/azure-mgmt-iotcentral 2.0.0: Microsoft Azure IoTCentral management cl
 dev-python/azure-mgmt-iothub 0.8.2: Microsoft Azure IoTHub Management Client Library for Python
 dev-python/azure-mgmt-iothubprovisioningservices 0.2.0-r1: Microsoft Azure IoTHub Provisioning Services Client Library for Python
 dev-python/azure-mgmt-keyvault 2.1.1: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
-dev-python/azure-mgmt-kusto 0.3.0: Microsoft Azure Kusto management client library for Python
+dev-python/azure-mgmt-kusto 0.3.0-r1: Microsoft Azure Kusto management client library for Python
 dev-python/azure-mgmt-loganalytics 0.2.0-r1: Microsoft Azure Log Analytics Management Client Library
 dev-python/azure-mgmt-managedservices 1.0.0: Microsoft Azure managed services client library for Python
 dev-python/azure-mgmt-managementgroups 0.2.0-r1: Microsoft Azure Management Groups Client Library
-dev-python/azure-mgmt-maps 0.1.0-r1: Microsoft Azure Maps client library
+dev-python/azure-mgmt-maps 0.1.0-r2: Microsoft Azure Maps client library
 dev-python/azure-mgmt-marketplaceordering 0.2.1: Microsoft Azure Market Place Ordering Client Library
 dev-python/azure-mgmt-media 1.1.1: Microsoft Azure Media Services Client Library
 dev-python/azure-mgmt-monitor 0.7.0: Microsoft Azure Monitor Management Client Library for Python
@@ -90,7 +90,7 @@ dev-python/fabric 2.5.0: A simple pythonic tool for remote execution and deploym
 dev-python/fdb 2.0.1: Firebird RDBMS bindings for Python.
 dev-python/humanfriendly 4.18: Human friendly output for text interfaces using Python
 dev-python/isodate 0.6.0-r1: ISO 8601 date/time/duration parser and formatter
-dev-python/knack 0.6.3: A Command-Line Interface framework
+dev-python/knack 0.6.3-r1: A Command-Line Interface framework
 dev-python/msrest 0.6.11: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.2-r1: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/oauthlib 3.1.0: Spec-compliant and thorough implementation of the OAuth request-signing logic
