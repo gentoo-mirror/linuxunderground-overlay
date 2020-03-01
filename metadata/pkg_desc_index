@@ -80,11 +80,11 @@ dev-python/azure-mgmt-signalr 0.3.0: Microsoft Azure SignalR client library
 dev-python/azure-mgmt-sql 0.15.0: Microsoft Azure SQL Management Client Library for Python
 dev-python/azure-mgmt-sqlvirtualmachine 0.5.0: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 7.2.0: Microsoft Azure Storage Resource Management Client Library for Python
-dev-python/azure-mgmt-trafficmanager 0.51.0-r1: Microsoft Azure Traffic Manager Client Library for Python
+dev-python/azure-mgmt-trafficmanager 0.51.0-r2: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 0.44.0: Microsoft Azure Web Apps Resource Management Client Library for Python
 dev-python/azure-multiapi-storage 0.2.4: Microsoft Azure Storage Client Library for Python
-dev-python/azure-storage-blob 2.1.0: Azure client library that makes it easy to consume Azure Storage services
-dev-python/azure-storage-common 2.1.0: Azure client library that makes it easy to consume Azure Storage services
+dev-python/azure-storage-blob 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
+dev-python/azure-storage-common 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
 dev-python/cli_helpers 0.2.3: Python helpers for common CLI tasks
 dev-python/fabric 2.5.0: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.1: Firebird RDBMS bindings for Python.
