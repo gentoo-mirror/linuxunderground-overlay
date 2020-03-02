@@ -55,12 +55,12 @@ dev-python/azure-mgmt-keyvault 2.1.1: Microsoft Azure KeyVault Apps Resource Man
 dev-python/azure-mgmt-kusto 0.3.0-r1: Microsoft Azure Kusto management client library for Python
 dev-python/azure-mgmt-loganalytics 0.2.0-r2: Microsoft Azure Log Analytics Management Client Library
 dev-python/azure-mgmt-managedservices 1.0.0-r1: Microsoft Azure managed services client library for Python
-dev-python/azure-mgmt-managementgroups 0.2.0-r1: Microsoft Azure Management Groups Client Library
+dev-python/azure-mgmt-managementgroups 0.2.0-r2: Microsoft Azure Management Groups Client Library
 dev-python/azure-mgmt-maps 0.1.0-r2: Microsoft Azure Maps client library
-dev-python/azure-mgmt-marketplaceordering 0.2.1: Microsoft Azure Market Place Ordering Client Library
+dev-python/azure-mgmt-marketplaceordering 0.2.1-r1: Microsoft Azure Market Place Ordering Client Library
 dev-python/azure-mgmt-media 1.1.1: Microsoft Azure Media Services Client Library
 dev-python/azure-mgmt-monitor 0.7.0: Microsoft Azure Monitor Management Client Library for Python
-dev-python/azure-mgmt-msi 1.0.0: Microsoft Azure MSI Management Client Library for Python
+dev-python/azure-mgmt-msi 1.0.0-r1: Microsoft Azure MSI Management Client Library for Python
 dev-python/azure-mgmt-netapp 0.7.0: Microsoft Azure netapp files management client library for Python
 dev-python/azure-mgmt-network 9.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.4.0: Microsoft Azure Policy Insights client library
@@ -82,7 +82,7 @@ dev-python/azure-mgmt-sqlvirtualmachine 0.5.0: Microsoft Azure SQL virtual machi
 dev-python/azure-mgmt-storage 7.2.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0-r2: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 0.44.0: Microsoft Azure Web Apps Resource Management Client Library for Python
-dev-python/azure-multiapi-storage 0.2.4: Microsoft Azure Storage Client Library for Python
+dev-python/azure-multiapi-storage 0.2.4-r1: Microsoft Azure Storage Client Library for Python
 dev-python/azure-storage-blob 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-storage-common 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
 dev-python/cli_helpers 0.2.3: Python helpers for common CLI tasks
