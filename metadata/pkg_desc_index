@@ -33,7 +33,7 @@ dev-python/azure-mgmt-billing 0.2.0-r2: Microsoft Azure Billing Management Clien
 dev-python/azure-mgmt-botservice 0.2.0-r1: Microsoft Azure Bot Service client library
 dev-python/azure-mgmt-cdn 4.0.0: Microsoft Azure CDN Resource Management Client Library for Python
 dev-python/azure-mgmt-cognitiveservices 5.0.0-r1: Microsoft Azure Cognitive Services Management Client Library for Python
-dev-python/azure-mgmt-compute 10.0.0: Microsoft Azure Compute Resource Management Client Library for Python
+dev-python/azure-mgmt-compute 11.0.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-consumption 2.0.0-r2: Microsoft Azure Consumption Management Client Library for Python
 dev-python/azure-mgmt-containerinstance 1.5.0-r1: Microsoft Azure Container Instance Client Library for Python
 dev-python/azure-mgmt-containerregistry 3.0.0_rc8: Microsoft Azure Container Registry Client Library for Python
@@ -77,7 +77,7 @@ dev-python/azure-mgmt-security 0.2.0-r1: Microsoft Azure security center managem
 dev-python/azure-mgmt-servicebus 0.6.0-r1: Microsoft Azure Service Bus Management Client Library
 dev-python/azure-mgmt-servicefabric 0.4.0: Microsoft Azure Service Fabric Management Client Library for Python
 dev-python/azure-mgmt-signalr 0.3.0-r1: Microsoft Azure SignalR client library
-dev-python/azure-mgmt-sql 0.15.0: Microsoft Azure SQL Management Client Library for Python
+dev-python/azure-mgmt-sql 0.17.0: Microsoft Azure SQL Management Client Library for Python
 dev-python/azure-mgmt-sqlvirtualmachine 0.5.0: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 7.2.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0-r2: Microsoft Azure Traffic Manager Client Library for Python
