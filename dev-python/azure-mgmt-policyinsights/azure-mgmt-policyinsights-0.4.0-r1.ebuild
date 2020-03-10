@@ -3,12 +3,12 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python3_{6,7} )
+PYTHON_COMPAT=( python3_{6,7,8} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure Web Apps Resource Management Client Library for Python"
-HOMEPAGE="https://pypi.org/project/azure-mgmt-web"
+DESCRIPTION="Microsoft Azure Policy Insights client library"
+HOMEPAGE="https://pypi.org/project/azure-mgmt-policyinsights"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.zip"
 
 KEYWORDS="~amd64 ~arm ~x86"
@@ -16,7 +16,7 @@ LICENSE="MIT"
 SLOT="0"
 
 RDEPEND=">=dev-python/msrestazure-0.6.2[${PYTHON_USEDEP}]
-	>=dev-python/azure-common-1.1.24[${PYTHON_USEDEP}]"
+	>=dev-python/azure-common-1.1.25[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
