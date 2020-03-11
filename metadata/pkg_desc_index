@@ -36,7 +36,7 @@ dev-python/azure-mgmt-cognitiveservices 5.0.0-r1: Microsoft Azure Cognitive Serv
 dev-python/azure-mgmt-compute 11.1.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-consumption 2.0.0-r2: Microsoft Azure Consumption Management Client Library for Python
 dev-python/azure-mgmt-containerinstance 1.5.0-r1: Microsoft Azure Container Instance Client Library for Python
-dev-python/azure-mgmt-containerregistry 3.0.0_rc8-r1: Microsoft Azure Container Registry Client Library for Python
+dev-python/azure-mgmt-containerregistry 3.0.0_rc9: Microsoft Azure Container Registry Client Library for Python
 dev-python/azure-mgmt-containerservice 8.3.0: Microsoft Azure Container Service Client Library for Python
 dev-python/azure-mgmt-cosmosdb 0.11.0: Microsoft Azure Cosmos DB Management Client Library for Python
 dev-python/azure-mgmt-datalake-analytics 0.3.0-r1: Microsoft Azure Data Lake Analytics Management Client Library for Python
