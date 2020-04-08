@@ -65,7 +65,7 @@ dev-python/azure-mgmt-netapp 0.8.0: Microsoft Azure netapp files management clie
 dev-python/azure-mgmt-network 9.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.4.0-r1: Microsoft Azure Policy Insights client library
 dev-python/azure-mgmt-privatedns 0.1.0-r1: Microsoft Azure DNS private zones client library for Python
-dev-python/azure-mgmt-rdbms 2.0.0: Microsoft Azure RDBMS Management Client Library for Python
+dev-python/azure-mgmt-rdbms 2.2.0: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-recoveryservices 0.4.0-r1: Microsoft Azure Recovery Services Client Library for Python
 dev-python/azure-mgmt-recoveryservicesbackup 0.6.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redis 7.0.0_rc1-r1: Microsoft Azure Redis Cache Resource Management Client Library for Python
