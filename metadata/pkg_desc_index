@@ -17,6 +17,7 @@ dev-python/azure-batch 8.0.0-r1: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.3.1: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.4-r1: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.25: Microsoft Azure Client Library for Python (Common)
+dev-python/azure-core 1.4.0: Microsoft Azure core library for Python
 dev-python/azure-cosmos 3.1.2: Microsoft Azure Cosmos DB SQL API client library for Python
 dev-python/azure-datalake-store 0.0.48-r1: Azure Data Lake Store Filesystem Client Library for Python
 dev-python/azure-functions-devops-build 0.0.22-r1: Python package for integrating azure functions with azure devops
@@ -38,6 +39,7 @@ dev-python/azure-mgmt-consumption 2.0.0-r2: Microsoft Azure Consumption Manageme
 dev-python/azure-mgmt-containerinstance 1.5.0-r1: Microsoft Azure Container Instance Client Library for Python
 dev-python/azure-mgmt-containerregistry 3.0.0_rc11: Microsoft Azure Container Registry Client Library for Python
 dev-python/azure-mgmt-containerservice 9.0.0: Microsoft Azure Container Service Client Library for Python
+dev-python/azure-mgmt-core 1.0.0: Microsoft Azure management core library for Python
 dev-python/azure-mgmt-cosmosdb 0.12.0: Microsoft Azure Cosmos DB Management Client Library for Python
 dev-python/azure-mgmt-datalake-analytics 0.3.0-r1: Microsoft Azure Data Lake Analytics Management Client Library for Python
 dev-python/azure-mgmt-datalake-store 0.5.0-r2: Microsoft Azure Data Lake Store Management Client Library for Python
