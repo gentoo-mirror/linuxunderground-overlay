@@ -70,6 +70,7 @@ dev-python/azure-mgmt-privatedns 0.1.0-r1: Microsoft Azure DNS private zones cli
 dev-python/azure-mgmt-rdbms 2.2.0: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-recoveryservices 0.4.0-r1: Microsoft Azure Recovery Services Client Library for Python
 dev-python/azure-mgmt-recoveryservicesbackup 0.6.0: Microsoft Azure Recovery Services Backup Client Library for Python
+dev-python/azure-mgmt-redhatopenshift 0.1.0: Microsoft Azure Red Hat Openshift management client library for Python
 dev-python/azure-mgmt-redis 7.0.0_rc1-r1: Microsoft Azure Redis Cache Resource Management Client Library for Python
 dev-python/azure-mgmt-relay 0.2.0-r1: Microsoft Azure Relay Client Library
 dev-python/azure-mgmt-reservations 0.7.0: Microsoft Azure Reservations Management Client Library for Python
