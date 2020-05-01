@@ -94,7 +94,7 @@ dev-python/fdb 2.0.1-r1: Firebird RDBMS bindings for Python.
 dev-python/invoke 1.1.1-r1: Pythonic task execution
 dev-python/isodate 0.6.0-r1: ISO 8601 date/time/duration parser and formatter
 dev-python/knack 0.7.0_rc1: A Command-Line Interface framework
-dev-python/msrest 0.6.11: AutoRest swagger generator Python client runtime
+dev-python/msrest 0.6.13: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.3: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/oauthlib 3.1.0: Spec-compliant and thorough implementation of the OAuth request-signing logic
 dev-python/port-for 0.4: An utility and python library for TCP ports management
