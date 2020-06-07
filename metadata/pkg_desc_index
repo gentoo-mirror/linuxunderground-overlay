@@ -98,7 +98,6 @@ dev-python/msal 1.2.0: Microsoft Authentication Library (MSAL) for Python librar
 dev-python/msal-extensions 0.2.2: Microsoft authentication extensions library for Python
 dev-python/msrest 0.6.14: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.3-r1: AutoRest swagger generator Python client runtime. Azure-specific module
-dev-python/oauthlib 3.1.0: Spec-compliant and thorough implementation of the OAuth request-signing logic
 dev-python/port-for 0.4: An utility and python library for TCP ports management
 dev-python/portalocker 1.5.2: Library to provide an easy API to file locking
 dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
