@@ -50,6 +50,7 @@ dev-python/azure-mgmt-dns 3.0.0-r1: Microsoft Azure DNS Management Client Librar
 dev-python/azure-mgmt-eventgrid 3.0.0_rc7: Microsoft Azure EventGrid Management Client Library for Python
 dev-python/azure-mgmt-eventhub 4.0.0: Microsoft Azure EventHub Management Client Library
 dev-python/azure-mgmt-hdinsight 1.6.0: Microsoft Azure HDInsight Management Client Library
+dev-python/azure-mgmt-imagebuilder 0.4.0: Microsoft Azure image builder client library for Python
 dev-python/azure-mgmt-iotcentral 3.0.0: Microsoft Azure IoTCentral management client library
 dev-python/azure-mgmt-iothub 0.12.0: Microsoft Azure IoTHub Management Client Library for Python
 dev-python/azure-mgmt-iothubprovisioningservices 0.2.0-r2: Microsoft Azure IoTHub Provisioning Services Client Library for Python
