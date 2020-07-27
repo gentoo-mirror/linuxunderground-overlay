@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure install prepare unpack
+DEPEND=media-libs/libsdl2[sound,video]
+DESCRIPTION=Texas Instruments Home Computer Emulator
+EAPI=7
+HOMEPAGE=https://www.mrousseau.org/programs/ti99sim/
+IUSE=+roms
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=LGPL-2
+RDEPEND=media-libs/libsdl2[sound,video]
+SLOT=0
+SRC_URI=https://www.mrousseau.org/programs/ti99sim/archives/ti99sim-0.16.0.src.tar.xz roms? ( https://ftp.whtech.com/System%20ROMs/MAME/pre_0.174/ti99_complete.zip https://ftp.whtech.com/System%20ROMs/MAME/ti99_gkracker.zip https://ftp.whtech.com/emulators/mess/mess_modules.zip )
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
+_md5_=4552e16395af341c35b7900ff4f95d86
