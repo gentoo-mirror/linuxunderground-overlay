@@ -105,6 +105,7 @@ dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
 dev-python/scp 0.13.2-r1: scp module for paramiko
 dev-python/sphinx-autobuild 0.7.1: Autorebuild documentation on change
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
+dev-python/terminaltables 3.1.0-r1: Generate simple tables in terminals from a nested list of strings
 dev-python/vsts 0.1.25-r1: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r2: Python wrapper around some of the VSTS APIs
 dev-util/thonny 3.2.3: Python IDE meant for learning programming
