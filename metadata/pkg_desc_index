@@ -8,7 +8,7 @@ app-emulation/ti99sim 0.13.0 0.14.0 0.15.0 0.16.0 0.16.0-r1: Texas Instruments H
 app-misc/eid-mw-sdk-c 0.2.3 0.2.4: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
 dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.3.32900.0 3.0.4.33054.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-db/mssql-cli 0.18.0 1.0 9999: Command-line client for SQL Server with auto-completion and syntax highlighting
-dev-python/PyKCS11 1.5.8 1.5.8-r1: A complete PKCS#11 wrapper for Python
+dev-python/PyKCS11 1.5.9: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.4: ADAL Python library
 dev-python/aiodns 2.0.0-r2: Simple DNS resolver for asyncio
 dev-python/applicationinsights 0.11.9-r1: This project extends the Application Insights API surface to support Python
