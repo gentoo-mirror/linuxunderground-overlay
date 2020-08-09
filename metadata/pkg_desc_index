@@ -14,7 +14,7 @@ dev-python/aiodns 2.0.0-r2: Simple DNS resolver for asyncio
 dev-python/applicationinsights 0.11.9-r1: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-batch 9.0.0: Microsoft Azure Batch Client Library for Python
-dev-python/azure-cli-core 2.10.0: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-core 2.10.1: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.4-r1: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.25: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-core 1.7.0: Microsoft Azure core library for Python
@@ -119,5 +119,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.10.0: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.10.1: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
