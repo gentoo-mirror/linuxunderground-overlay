@@ -6,6 +6,7 @@ app-emulation/dosemu2 2.0_pre8 9999: DOS Emulator. It's an attempt to re-incarna
 app-emulation/fdpp 0.1_beta9 9999: FreeDOS plus-plus, 64bit DOS
 app-emulation/ti99sim 0.13.0 0.14.0 0.15.0 0.16.0 0.16.0-r1: Texas Instruments Home Computer Emulator
 app-misc/eid-mw-sdk-c 0.2.3 0.2.4 0.3.1: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
+app-vim/vim-delphi 20200814 99999999: vim plugin: Gentoo and Portage syntax highlighting
 dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.3.32900.0 3.0.4.33054.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-db/mssql-cli 0.18.0 1.0 9999: Command-line client for SQL Server with auto-completion and syntax highlighting
 dev-python/PyKCS11 1.5.9: A complete PKCS#11 wrapper for Python
