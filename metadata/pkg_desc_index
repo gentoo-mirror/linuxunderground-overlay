@@ -121,7 +121,6 @@ games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the dis
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
 games-arcade/diamond-girl 1.25.2 2.0.1 9999: Single player puzzle game with a time constraint
 games-arcade/doubledash 0.5.1: A split-screen multiplayer remake of BoulderDash game
-games-arcade/epiphany 0.7.0 9999: Clone of Boulderdash (a.k.a Emerald Mine on the Amiga)
 games-arcade/gdash 20130427 20180129: Clone of Boulderdash (a.k.a Emerald Mine on the Amiga)
 games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
