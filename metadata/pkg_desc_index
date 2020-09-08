@@ -119,7 +119,6 @@ dev-python/vsts-cd-manager 1.0.2-r2: Python wrapper around some of the VSTS APIs
 dev-util/thonny 3.2.3: Python IDE meant for learning programming
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
-games-arcade/diamond-girl 1.25.2 2.0.1 9999: Single player puzzle game with a time constraint
 games-arcade/doubledash 0.5.1: A split-screen multiplayer remake of BoulderDash game
 games-arcade/gdash 20130427 20180129: Clone of Boulderdash (a.k.a Emerald Mine on the Amiga)
 games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11

@@ -14,8 +14,6 @@ dev-db/firebird:xinetd - Install ClassicServer
 dev-python/fabric:fab2 - Install as "fab2", allowing side-by-side install with fabric 1.x
 dev-python/msrest:async - Install async support
 games-arcade/SDLPoP:haptic - Enable the haptic (force feedback) subsystem
-games-arcade/diamond-girl:compressed-data - Use ogg files instead of wav + optimize size of png files
-games-arcade/diamond-girl:mixer - Enable media-libs/sdl-mixer support
 media-sound/tinysid:alsa - Install OSS wrapper, by using media-libs/alsa-oss
 net-misc/azure-cli:acr - Install the Azure Container Registries module. i.e. 'az acr'
 net-misc/azure-cli:acs - Install the container module. i.e. 'az acs' and 'az aks'
