@@ -18,6 +18,7 @@ dev-python/adal 1.2.4: ADAL Python library
 dev-python/aiodns 2.0.0-r2: Simple DNS resolver for asyncio
 dev-python/applicationinsights 0.11.9-r1: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
+dev-python/azure-appconfiguration 1.1.0: Microsoft app configuration data library for Python
 dev-python/azure-batch 9.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.11.1: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.6: Microsoft Azure CLI Telemetry Package

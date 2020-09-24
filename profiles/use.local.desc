@@ -11,6 +11,7 @@ dev-db/firebird:client - Install client library and header files only (2.5.x onl
 dev-db/firebird:server - Install the server components of Firebird, not just the client (3.x.x only)
 dev-db/firebird:superserver - Install SuperServer (2.5.x only)
 dev-db/firebird:xinetd - Install ClassicServer
+dev-python/azure-appconfiguration:async - Install async support
 dev-python/fabric:fab2 - Install as "fab2", allowing side-by-side install with fabric 1.x
 dev-python/msrest:async - Install async support
 games-arcade/SDLPoP:haptic - Enable the haptic (force feedback) subsystem
