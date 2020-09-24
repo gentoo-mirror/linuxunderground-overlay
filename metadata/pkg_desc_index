@@ -29,6 +29,7 @@ dev-python/azure-datalake-store 0.0.49: Azure Data Lake Store Filesystem Client 
 dev-python/azure-functions-devops-build 0.0.22-r1: Python package for integrating azure functions with azure devops
 dev-python/azure-graphrbac 0.61.1-r1: Microsoft Azure Graph RBAC Resource Management Client Library for Python
 dev-python/azure-keyvault 1.1.0-r2: Microsoft Azure Key Vault Client Library for Python
+dev-python/azure-keyvault-administration 4.0.0_beta1: Microsoft app configuration data library for Python
 dev-python/azure-loganalytics 0.1.0: Microsoft Azure log analytics client library for Python
 dev-python/azure-mgmt-advisor 2.0.1-r2: Microsoft Azure Advisor Client Library for Python
 dev-python/azure-mgmt-apimanagement 0.1.0-r1: Microsoft Azure API Management Client Library for Python
