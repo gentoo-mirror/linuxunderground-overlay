@@ -17,9 +17,9 @@ dev-python/PyKCS11 1.5.9: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.4: ADAL Python library
 dev-python/applicationinsights 0.11.9-r1: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
-dev-python/azure-appconfiguration 1.1.0: Microsoft app configuration data library for Python
+dev-python/azure-appconfiguration 1.1.1: Microsoft app configuration data library for Python
 dev-python/azure-batch 9.0.0: Microsoft Azure Batch Client Library for Python
-dev-python/azure-cli-core 2.11.1 2.12.1: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-core 2.11.1 2.14.0: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.6: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.25: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-core 1.8.2: Microsoft Azure core library for Python
@@ -39,8 +39,8 @@ dev-python/azure-mgmt-batch 9.0.0: Microsoft Azure Batch Management Client Libra
 dev-python/azure-mgmt-billing 0.2.0-r2: Microsoft Azure Billing Management Client Library for Python
 dev-python/azure-mgmt-botservice 0.2.0-r1: Microsoft Azure Bot Service client library
 dev-python/azure-mgmt-cdn 5.0.0: Microsoft Azure CDN Resource Management Client Library for Python
-dev-python/azure-mgmt-cognitiveservices 6.2.0: Microsoft Azure Cognitive Services Management Client Library for Python
-dev-python/azure-mgmt-compute 13.0.0: Microsoft Azure Compute Resource Management Client Library for Python
+dev-python/azure-mgmt-cognitiveservices 6.3.0: Microsoft Azure Cognitive Services Management Client Library for Python
+dev-python/azure-mgmt-compute 14.0.0: Microsoft Azure Compute Resource Management Client Library for Python
 dev-python/azure-mgmt-consumption 2.0.0-r2: Microsoft Azure Consumption Management Client Library for Python
 dev-python/azure-mgmt-containerinstance 1.5.0-r1: Microsoft Azure Container Instance Client Library for Python
 dev-python/azure-mgmt-containerregistry 3.0.0_rc15: Microsoft Azure Container Registry Client Library for Python
@@ -74,7 +74,7 @@ dev-python/azure-mgmt-netapp 0.12.0: Microsoft Azure netapp files management cli
 dev-python/azure-mgmt-network 12.0.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 0.5.0: Microsoft Azure Policy Insights client library
 dev-python/azure-mgmt-privatedns 0.1.0-r1: Microsoft Azure DNS private zones client library for Python
-dev-python/azure-mgmt-rdbms 2.2.0 3.0.0_rc1: Microsoft Azure RDBMS Management Client Library for Python
+dev-python/azure-mgmt-rdbms 2.2.0 3.1.0_rc1: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-recoveryservices 0.4.0-r1: Microsoft Azure Recovery Services Client Library for Python
 dev-python/azure-mgmt-recoveryservicesbackup 0.6.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redhatopenshift 0.1.0: Microsoft Azure Red Hat Openshift management client library for Python
@@ -92,11 +92,12 @@ dev-python/azure-mgmt-sqlvirtualmachine 0.5.0: Microsoft Azure SQL virtual machi
 dev-python/azure-mgmt-storage 11.2.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-synapse 0.3.0: Microsoft Azure synapse management client library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0-r2: Microsoft Azure Traffic Manager Client Library for Python
-dev-python/azure-mgmt-web 0.47.0: Microsoft Azure Web Apps Resource Management Client Library for Python
-dev-python/azure-multiapi-storage 0.4.1: Microsoft Azure Storage Client Library for Python
+dev-python/azure-mgmt-web 0.48.0: Microsoft Azure Web Apps Resource Management Client Library for Python
+dev-python/azure-multiapi-storage 0.5.2: Microsoft Azure Storage Client Library for Python
 dev-python/azure-storage-blob 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-storage-common 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-synapse-accesscontrol 0.2.0: Azure synapse accesscontrol client library for Python
+dev-python/azure-synapse-artifacts 0.3.0: Azure synapse artifacts client library for Python
 dev-python/azure-synapse-spark 0.2.0: Azure synapse spark client library for Python
 dev-python/cli_helpers 0.2.3-r1 2.0.1: Python helpers for common CLI tasks
 dev-python/fabric 2.5.0-r1: A simple pythonic tool for remote execution and deployment
@@ -126,5 +127,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.11.1 2.12.1: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.11.1 2.14.0: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
