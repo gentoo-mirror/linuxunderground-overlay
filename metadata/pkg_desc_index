@@ -13,7 +13,7 @@ app-misc/eid-mw-sdk-c 0.2.3 0.2.4 0.3.1: GNU package that show how to use libbei
 app-vim/vim-delphi 20200814 99999999: vim plugin: Gentoo and Portage syntax highlighting
 dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.6.33328.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-db/mssql-cli 0.18.0 1.0 9999: Command-line client for SQL Server with auto-completion and syntax highlighting
-dev-python/PyKCS11 1.5.9: A complete PKCS#11 wrapper for Python
+dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.4: ADAL Python library
 dev-python/applicationinsights 0.11.9-r1: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
