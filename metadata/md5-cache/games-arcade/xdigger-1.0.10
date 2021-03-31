@@ -3,6 +3,7 @@ DEPEND=acct-group/gamestat x11-misc/imake
 DESCRIPTION=Lightweight arcade diamonds digging game for X11
 EAPI=7
 HOMEPAGE=http://www.ibiblio.org/pub/Linux/games/arcade/
+INHERIT=desktop
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-2
 RDEPEND=acct-group/gamestat
