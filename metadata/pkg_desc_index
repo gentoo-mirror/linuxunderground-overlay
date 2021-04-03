@@ -20,7 +20,7 @@ dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token
 dev-python/azure-appconfiguration 1.1.1: Microsoft app configuration data library for Python
 dev-python/azure-batch 9.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.11.1 2.14.2: Microsoft Azure Command-Line Tools Core Module
-dev-python/azure-cli-telemetry 1.0.6: Microsoft Azure CLI Telemetry Package
+dev-python/azure-cli-telemetry 1.0.6-r1: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.27: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-core 1.13.0: Microsoft Azure core library for Python
 dev-python/azure-cosmos 3.1.2: Microsoft Azure Cosmos DB SQL API client library for Python
@@ -76,7 +76,7 @@ dev-python/azure-mgmt-policyinsights 0.5.0: Microsoft Azure Policy Insights clie
 dev-python/azure-mgmt-privatedns 0.1.0-r1: Microsoft Azure DNS private zones client library for Python
 dev-python/azure-mgmt-rdbms 2.2.0 3.1.0_rc1: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-recoveryservices 0.4.0-r1: Microsoft Azure Recovery Services Client Library for Python
-dev-python/azure-mgmt-recoveryservicesbackup 0.6.0: Microsoft Azure Recovery Services Backup Client Library for Python
+dev-python/azure-mgmt-recoveryservicesbackup 0.11.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redhatopenshift 0.1.0: Microsoft Azure Red Hat Openshift management client library for Python
 dev-python/azure-mgmt-redis 7.0.0_rc1-r1: Microsoft Azure Redis Cache Resource Management Client Library for Python
 dev-python/azure-mgmt-relay 0.2.0-r1: Microsoft Azure Relay Client Library
@@ -88,7 +88,7 @@ dev-python/azure-mgmt-servicebus 0.6.0-r1: Microsoft Azure Service Bus Managemen
 dev-python/azure-mgmt-servicefabric 0.5.0: Microsoft Azure Service Fabric Management Client Library for Python
 dev-python/azure-mgmt-signalr 0.4.0: Microsoft Azure SignalR client library
 dev-python/azure-mgmt-sql 0.21.0: Microsoft Azure SQL Management Client Library for Python
-dev-python/azure-mgmt-sqlvirtualmachine 0.5.0: Microsoft Azure SQL virtual machine management client library for Python
+dev-python/azure-mgmt-sqlvirtualmachine 0.5.0-r1: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 11.2.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-synapse 0.3.0: Microsoft Azure synapse management client library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0-r2: Microsoft Azure Traffic Manager Client Library for Python
@@ -103,14 +103,13 @@ dev-python/cli_helpers 0.2.3-r1 2.0.1: Python helpers for common CLI tasks
 dev-python/fabric 2.5.0-r1: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.1-r1: Firebird RDBMS bindings for Python.
 dev-python/invoke 1.1.1-r1: Pythonic task execution
-dev-python/isodate 0.6.0-r1: ISO 8601 date/time/duration parser and formatter
 dev-python/knack 0.8.0: A Command-Line Interface framework
 dev-python/msal 1.10.0: Microsoft Authentication Library (MSAL) for Python library
 dev-python/msal-extensions 0.2.2: Microsoft authentication extensions library for Python
 dev-python/msrest 0.6.21: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4-r1: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/port-for 0.4: An utility and python library for TCP ports management
-dev-python/portalocker 1.5.2 1.7.0: Library to provide an easy API to file locking
+dev-python/portalocker 1.7.0 2.3.0: Library to provide an easy API to file locking
 dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
 dev-python/scp 0.13.2-r1: scp module for paramiko
 dev-python/sphinx-autobuild 0.7.1: Autorebuild documentation on change
