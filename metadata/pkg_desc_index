@@ -78,7 +78,7 @@ dev-python/azure-mgmt-rdbms 2.2.0 3.1.0_rc1: Microsoft Azure RDBMS Management Cl
 dev-python/azure-mgmt-recoveryservices 0.4.0-r2: Microsoft Azure Recovery Services Client Library for Python
 dev-python/azure-mgmt-recoveryservicesbackup 0.11.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redhatopenshift 0.1.0: Microsoft Azure Red Hat Openshift management client library for Python
-dev-python/azure-mgmt-redis 7.0.0_rc1-r1: Microsoft Azure Redis Cache Resource Management Client Library for Python
+dev-python/azure-mgmt-redis 7.0.0_rc2: Microsoft Azure Redis Cache Resource Management Client Library for Python
 dev-python/azure-mgmt-relay 0.2.0-r2: Microsoft Azure Relay Client Library
 dev-python/azure-mgmt-reservations 0.7.0-r1: Microsoft Azure Reservations Management Client Library for Python
 dev-python/azure-mgmt-resource 10.2.0: Microsoft Azure Resource Management Client Library for Python
@@ -102,7 +102,7 @@ dev-python/azure-synapse-spark 0.2.0: Azure synapse spark client library for Pyt
 dev-python/cli_helpers 0.2.3-r1 2.0.1: Python helpers for common CLI tasks
 dev-python/fabric 2.5.0-r1: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.1-r1: Firebird RDBMS bindings for Python.
-dev-python/invoke 1.1.1-r1: Pythonic task execution
+dev-python/invoke 1.5.0: Pythonic task execution
 dev-python/knack 0.8.0: A Command-Line Interface framework
 dev-python/msal 1.10.0: Microsoft Authentication Library (MSAL) for Python library
 dev-python/msal-extensions 0.3.0: Microsoft authentication extensions library for Python
@@ -116,7 +116,7 @@ dev-python/sphinx-autobuild 0.7.1: Autorebuild documentation on change
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
 dev-python/terminaltables 3.1.0-r1: Generate simple tables in terminals from a nested list of strings
 dev-python/vsts 0.1.25-r2: Python wrapper around the VSTS APIs
-dev-python/vsts-cd-manager 1.0.2-r2: Python wrapper around some of the VSTS APIs
+dev-python/vsts-cd-manager 1.0.2-r3: Python wrapper around some of the VSTS APIs
 dev-util/thonny 3.2.3: Python IDE meant for learning programming
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
