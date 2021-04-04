@@ -26,7 +26,7 @@ dev-python/azure-core 1.13.0: Microsoft Azure core library for Python
 dev-python/azure-cosmos 3.1.2-r1: Microsoft Azure Cosmos DB SQL API client library for Python
 dev-python/azure-datalake-store 0.0.49: Azure Data Lake Store Filesystem Client Library for Python
 dev-python/azure-functions-devops-build 0.0.22-r1: Python package for integrating azure functions with azure devops
-dev-python/azure-graphrbac 0.61.1-r1: Microsoft Azure Graph RBAC Resource Management Client Library for Python
+dev-python/azure-graphrbac 0.61.1-r2: Microsoft Azure Graph RBAC Resource Management Client Library for Python
 dev-python/azure-keyvault 1.1.0-r3: Microsoft Azure Key Vault Client Library for Python
 dev-python/azure-keyvault-administration 4.0.0_beta1: Microsoft app configuration data library for Python
 dev-python/azure-loganalytics 0.1.0: Microsoft Azure log analytics client library for Python
@@ -52,7 +52,7 @@ dev-python/azure-mgmt-datalake-store 0.5.0-r3: Microsoft Azure Data Lake Store M
 dev-python/azure-mgmt-datamigration 2.2.0-r1: Microsoft Azure Data Migration Client Library
 dev-python/azure-mgmt-deploymentmanager 0.2.0-r1: Microsoft Azure deployment manager client library for Python
 dev-python/azure-mgmt-devtestlabs 4.0.0: Microsoft Azure DevTest Labs Management Client Library for Python
-dev-python/azure-mgmt-dns 3.0.0-r1: Microsoft Azure DNS Management Client Library for Python
+dev-python/azure-mgmt-dns 3.0.0-r2: Microsoft Azure DNS Management Client Library for Python
 dev-python/azure-mgmt-eventgrid 3.0.0_rc7: Microsoft Azure EventGrid Management Client Library for Python
 dev-python/azure-mgmt-eventhub 4.2.0: Microsoft Azure EventHub Management Client Library
 dev-python/azure-mgmt-hdinsight 1.7.0: Microsoft Azure HDInsight Management Client Library
@@ -63,7 +63,7 @@ dev-python/azure-mgmt-iothubprovisioningservices 0.2.0-r3: Microsoft Azure IoTHu
 dev-python/azure-mgmt-keyvault 7.0.0: Microsoft Azure KeyVault Apps Resource Management Client Library for Python
 dev-python/azure-mgmt-kusto 0.3.0-r2: Microsoft Azure Kusto management client library for Python
 dev-python/azure-mgmt-loganalytics 0.7.0: Microsoft Azure Log Analytics Management Client Library
-dev-python/azure-mgmt-managedservices 1.0.0-r1: Microsoft Azure managed services client library for Python
+dev-python/azure-mgmt-managedservices 1.0.0-r2: Microsoft Azure managed services client library for Python
 dev-python/azure-mgmt-managementgroups 0.2.0-r2: Microsoft Azure Management Groups Client Library
 dev-python/azure-mgmt-maps 0.1.0-r3: Microsoft Azure Maps client library
 dev-python/azure-mgmt-marketplaceordering 0.2.1-r1: Microsoft Azure Market Place Ordering Client Library
@@ -91,11 +91,11 @@ dev-python/azure-mgmt-sql 0.21.0: Microsoft Azure SQL Management Client Library 
 dev-python/azure-mgmt-sqlvirtualmachine 0.5.0-r1: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 11.2.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-synapse 0.3.0: Microsoft Azure synapse management client library for Python
-dev-python/azure-mgmt-trafficmanager 0.51.0-r2: Microsoft Azure Traffic Manager Client Library for Python
+dev-python/azure-mgmt-trafficmanager 0.51.0-r3: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 0.48.0: Microsoft Azure Web Apps Resource Management Client Library for Python
 dev-python/azure-multiapi-storage 0.5.2: Microsoft Azure Storage Client Library for Python
 dev-python/azure-storage-blob 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
-dev-python/azure-storage-common 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
+dev-python/azure-storage-common 2.1.0-r2: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-synapse-accesscontrol 0.2.0: Azure synapse accesscontrol client library for Python
 dev-python/azure-synapse-artifacts 0.3.0: Azure synapse artifacts client library for Python
 dev-python/azure-synapse-spark 0.2.0: Azure synapse spark client library for Python
