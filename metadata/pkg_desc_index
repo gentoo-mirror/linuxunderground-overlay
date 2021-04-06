@@ -92,8 +92,8 @@ dev-python/azure-mgmt-sqlvirtualmachine 0.5.0-r1: Microsoft Azure SQL virtual ma
 dev-python/azure-mgmt-storage 17.0.0: Microsoft Azure Storage Resource Management Client Library for Python
 dev-python/azure-mgmt-synapse 0.6.0: Microsoft Azure synapse management client library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0-r3: Microsoft Azure Traffic Manager Client Library for Python
-dev-python/azure-mgmt-web 0.48.0: Microsoft Azure Web Apps Resource Management Client Library for Python
-dev-python/azure-multiapi-storage 0.5.2: Microsoft Azure Storage Client Library for Python
+dev-python/azure-mgmt-web 0.48.0-r1: Microsoft Azure Web Apps Resource Management Client Library for Python
+dev-python/azure-multiapi-storage 0.6.2: Microsoft Azure Storage Client Library for Python
 dev-python/azure-storage-blob 2.1.0-r1: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-storage-common 2.1.0-r2: Azure client library that makes it easy to consume Azure Storage services
 dev-python/azure-synapse-accesscontrol 0.6.0: Azure synapse accesscontrol client library for Python
