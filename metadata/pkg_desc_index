@@ -18,7 +18,7 @@ dev-python/adal 1.2.6: ADAL Python library
 dev-python/applicationinsights 0.11.9-r2: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-appconfiguration 1.1.1-r1: Microsoft app configuration data library for Python
-dev-python/azure-batch 9.0.0-r1: Microsoft Azure Batch Client Library for Python
+dev-python/azure-batch 10.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.21.0: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.6-r1: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.27: Microsoft Azure Client Library for Python (Common)
