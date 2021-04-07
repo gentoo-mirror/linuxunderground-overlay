@@ -27,6 +27,7 @@ dev-python/azure-cosmos 3.1.2-r1: Microsoft Azure Cosmos DB SQL API client libra
 dev-python/azure-datalake-store 0.0.52: Azure Data Lake Store Filesystem Client Library for Python
 dev-python/azure-functions-devops-build 0.0.22-r2: Python package for integrating azure functions with azure devops
 dev-python/azure-graphrbac 0.61.1-r2: Microsoft Azure Graph RBAC Resource Management Client Library for Python
+dev-python/azure-identity 1.5.0: Microsoft Azure identity library for Python
 dev-python/azure-keyvault 1.1.0-r3: Microsoft Azure Key Vault Client Library for Python
 dev-python/azure-keyvault-administration 4.0.0_beta3: Microsoft app configuration data library for Python
 dev-python/azure-loganalytics 0.1.0-r1: Microsoft Azure log analytics client library for Python
@@ -47,6 +48,7 @@ dev-python/azure-mgmt-containerregistry 3.0.0_rc17: Microsoft Azure Container Re
 dev-python/azure-mgmt-containerservice 11.1.0: Microsoft Azure Container Service Client Library for Python
 dev-python/azure-mgmt-core 1.2.2: Microsoft Azure management core library for Python
 dev-python/azure-mgmt-cosmosdb 3.0.0: Microsoft Azure Cosmos DB Management Client Library for Python
+dev-python/azure-mgmt-databoxedge 0.2.0: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-datalake-analytics 0.2.1: Microsoft Azure Data Lake Analytics Management Client Library for Python
 dev-python/azure-mgmt-datalake-store 0.5.0-r3: Microsoft Azure Data Lake Store Management Client Library for Python
 dev-python/azure-mgmt-datamigration 4.1.0: Microsoft Azure Data Migration Client Library
