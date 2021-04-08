@@ -34,6 +34,7 @@ net-misc/azure-cli:cognitiveservices - Install the cognitive services module. i.
 net-misc/azure-cli:consumption - Install the consumption module. i.e. 'az consumption'
 net-misc/azure-cli:container - Install the tools container module. i.e. 'az container'
 net-misc/azure-cli:cosmosdb - Install the cosmosdb module. i.e. 'az cosmosdb'
+net-misc/azure-cli:databoxedge - Install the databoxedge module. i.e. 'az databoxedge'
 net-misc/azure-cli:deploymentmanager - Install the deploymentmanager module. i.e. 'az deploymentmanager'
 net-misc/azure-cli:dla - Install the dla module. i.e. 'az dla'
 net-misc/azure-cli:dls - Install the dls module. i.e. 'az dls'
