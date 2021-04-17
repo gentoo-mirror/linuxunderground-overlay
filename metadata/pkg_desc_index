@@ -14,7 +14,7 @@ app-vim/vim-delphi 20200814 99999999: vim plugin: Gentoo and Portage syntax high
 dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.6.33328.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-db/mssql-cli 1.0 9999: Command-line client for SQL Server with auto-completion and syntax highlighting
 dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
-dev-python/adal 1.2.6: ADAL Python library
+dev-python/adal 1.2.7: ADAL Python library
 dev-python/applicationinsights 0.11.9-r2: This project extends the Application Insights API surface to support Python
 dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-appconfiguration 1.1.1-r1: Microsoft app configuration data library for Python
