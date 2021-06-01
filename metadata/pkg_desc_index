@@ -113,7 +113,6 @@ dev-python/msrest 0.6.21: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4-r1: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/port-for 0.4: An utility and python library for TCP ports management
 dev-python/portalocker 1.7.0 2.3.0: Library to provide an easy API to file locking
-dev-python/pydocumentdb 2.3.3-r1: Azure DocumentDB Python SDK
 dev-python/scp 0.13.3: scp module for paramiko
 dev-python/sphinx-autobuild 0.7.1: Autorebuild documentation on change
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
