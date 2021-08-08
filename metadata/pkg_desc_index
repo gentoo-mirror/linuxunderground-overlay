@@ -57,6 +57,7 @@ dev-python/azure-mgmt-devtestlabs 4.0.0-r1: Microsoft Azure DevTest Labs Managem
 dev-python/azure-mgmt-dns 8.0.0: Microsoft Azure DNS Management Client Library for Python
 dev-python/azure-mgmt-eventgrid 3.0.0_rc9: Microsoft Azure EventGrid Management Client Library for Python
 dev-python/azure-mgmt-eventhub 4.2.0-r1: Microsoft Azure EventHub Management Client Library
+dev-python/azure-mgmt-extendedlocation 1.0.0_beta2: Microsoft Azure extendedlocation management client library for Python
 dev-python/azure-mgmt-hdinsight 2.2.0: Microsoft Azure HDInsight Management Client Library
 dev-python/azure-mgmt-imagebuilder 0.4.0-r1: Microsoft Azure image builder client library for Python
 dev-python/azure-mgmt-iotcentral 4.1.0: Microsoft Azure IoTCentral management client library
