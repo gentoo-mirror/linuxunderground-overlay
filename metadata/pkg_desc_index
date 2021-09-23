@@ -109,7 +109,7 @@ dev-python/fabric 2.6.0: A simple pythonic tool for remote execution and deploym
 dev-python/fdb 2.0.1-r1: Firebird RDBMS bindings for Python.
 dev-python/invoke 1.5.0: Pythonic task execution
 dev-python/knack 0.8.2: A Command-Line Interface framework
-dev-python/msal 1.10.0: Microsoft Authentication Library (MSAL) for Python library
+dev-python/msal 1.14.0: Microsoft Authentication Library (MSAL) for Python library
 dev-python/msal-extensions 0.3.0: Microsoft authentication extensions library for Python
 dev-python/msrest 0.6.21-r1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4-r2: AutoRest swagger generator Python client runtime. Azure-specific module
