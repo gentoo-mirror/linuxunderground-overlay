@@ -106,9 +106,9 @@ dev-python/azure-synapse-artifacts 0.7.0: Azure synapse artifacts client library
 dev-python/azure-synapse-managedprivateendpoints 0.4.0: Azure synapse managed private endpoints client library for Python
 dev-python/azure-synapse-spark 0.5.0: Azure synapse spark client library for Python
 dev-python/cli_helpers 0.2.3-r1 2.0.1: Python helpers for common CLI tasks
-dev-python/fabric 2.6.0: A simple pythonic tool for remote execution and deployment
+dev-python/fabric 2.6.0-r1: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.1-r1: Firebird RDBMS bindings for Python.
-dev-python/invoke 1.5.0: Pythonic task execution
+dev-python/invoke 1.6.0: Pythonic task execution
 dev-python/knack 0.8.2-r1: A Command-Line Interface framework
 dev-python/msal 1.14.0: Microsoft Authentication Library (MSAL) for Python library
 dev-python/msal-extensions 0.3.0: Microsoft authentication extensions library for Python
