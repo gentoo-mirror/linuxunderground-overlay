@@ -113,11 +113,9 @@ dev-python/msal 1.14.0: Microsoft Authentication Library (MSAL) for Python libra
 dev-python/msal-extensions 0.3.0: Microsoft authentication extensions library for Python
 dev-python/msrest 0.6.21-r1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4-r2: AutoRest swagger generator Python client runtime. Azure-specific module
-dev-python/port-for 0.4: An utility and python library for TCP ports management
 dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
 dev-python/scp 0.13.3: scp module for paramiko
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
-dev-python/terminaltables 3.1.0-r2: Generate simple tables in terminals from a nested list of strings
 dev-python/vsts 0.1.25-r2: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r3: Python wrapper around some of the VSTS APIs
 dev-util/thonny 3.2.3: Python IDE meant for learning programming
