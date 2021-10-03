@@ -16,7 +16,6 @@ dev-db/mssql-cli 1.0 9999: Command-line client for SQL Server with auto-completi
 dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.7-r1: ADAL Python library
 dev-python/applicationinsights 0.11.10: This project extends the Application Insights API surface to support Python
-dev-python/asttokens 2.0.2: Annotate Python AST trees with source text and token information
 dev-python/azure-appconfiguration 1.1.1-r1: Microsoft app configuration data library for Python
 dev-python/azure-batch 11.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.28.1: Microsoft Azure Command-Line Tools Core Module
@@ -117,7 +116,6 @@ dev-python/msrestazure 0.6.4-r2: AutoRest swagger generator Python client runtim
 dev-python/port-for 0.4: An utility and python library for TCP ports management
 dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
 dev-python/scp 0.13.3: scp module for paramiko
-dev-python/sphinx-autobuild 0.7.1: Autorebuild documentation on change
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
 dev-python/terminaltables 3.1.0-r2: Generate simple tables in terminals from a nested list of strings
 dev-python/vsts 0.1.25-r2: Python wrapper around the VSTS APIs
