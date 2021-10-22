@@ -106,7 +106,9 @@ dev-python/azure-synapse-accesscontrol 0.6.0: Azure synapse accesscontrol client
 dev-python/azure-synapse-artifacts 0.7.0: Azure synapse artifacts client library for Python
 dev-python/azure-synapse-managedprivateendpoints 0.4.0: Azure synapse managed private endpoints client library for Python
 dev-python/azure-synapse-spark 0.5.0: Azure synapse spark client library for Python
+dev-python/cbmcodecs2 1.2: Python codecs for CBM PETSCII and Screencode encodings
 dev-python/cli_helpers 0.2.3-r2: Python helpers for common CLI tasks
+dev-python/d64 1.6: Read and write Commodore disk images
 dev-python/fabric 2.6.0-r1: A simple pythonic tool for remote execution and deployment
 dev-python/fdb 2.0.1-r1: Firebird RDBMS bindings for Python.
 dev-python/invoke 1.6.0: Pythonic task execution
