@@ -120,7 +120,7 @@ dev-python/msrestazure 0.6.4-r2: AutoRest swagger generator Python client runtim
 dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
 dev-python/scp 0.13.3: scp module for paramiko
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
-dev-python/vsts 0.1.25-r2: Python wrapper around the VSTS APIs
+dev-python/vsts 0.1.25-r3: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r3: Python wrapper around some of the VSTS APIs
 dev-util/thonny 3.2.3: Python IDE meant for learning programming
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
