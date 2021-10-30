@@ -84,10 +84,10 @@ dev-python/azure-mgmt-recoveryservices 2.0.0: Microsoft Azure Recovery Services 
 dev-python/azure-mgmt-recoveryservicesbackup 0.15.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redhatopenshift 1.0.0: Microsoft Azure Red Hat Openshift management client library for Python
 dev-python/azure-mgmt-redis 13.0.0: Microsoft Azure Redis Cache Resource Management Client Library for Python
-dev-python/azure-mgmt-relay 0.2.0-r2: Microsoft Azure Relay Client Library
-dev-python/azure-mgmt-reservations 0.7.0-r1: Microsoft Azure Reservations Management Client Library for Python
+dev-python/azure-mgmt-relay 0.2.0-r3: Microsoft Azure Relay Client Library
+dev-python/azure-mgmt-reservations 0.7.0-r2: Microsoft Azure Reservations Management Client Library for Python
 dev-python/azure-mgmt-resource 19.0.0: Microsoft Azure Resource Management Client Library for Python
-dev-python/azure-mgmt-search 8.0.0: Microsoft Azure Search Management Client Library for Python
+dev-python/azure-mgmt-search 8.0.0-r1: Microsoft Azure Search Management Client Library for Python
 dev-python/azure-mgmt-security 2.0.0_beta1: Microsoft Azure security center management client library for Python
 dev-python/azure-mgmt-servicebus 6.0.0: Microsoft Azure Service Bus Management Client Library
 dev-python/azure-mgmt-servicefabric 1.0.0: Microsoft Azure Service Fabric Management Client Library for Python
