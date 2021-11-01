@@ -17,7 +17,7 @@ dev-db/mssql-cli 1.0 9999: Command-line client for SQL Server with auto-completi
 dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.7-r1: ADAL Python library
 dev-python/applicationinsights 0.11.10: This project extends the Application Insights API surface to support Python
-dev-python/azure-appconfiguration 1.1.1-r1: Microsoft app configuration data library for Python
+dev-python/azure-appconfiguration 1.2.0: Microsoft app configuration data library for Python
 dev-python/azure-batch 11.0.0: Microsoft Azure Batch Client Library for Python
 dev-python/azure-cli-core 2.29.2: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.6-r2: Microsoft Azure CLI Telemetry Package
@@ -37,7 +37,7 @@ dev-python/azure-mgmt-advisor 9.0.0: Microsoft Azure Advisor Client Library for 
 dev-python/azure-mgmt-apimanagement 0.2.0-r1: Microsoft Azure API Management Client Library for Python
 dev-python/azure-mgmt-appconfiguration 2.0.0: Microsoft Azure App Configuration Management Client Library for Python
 dev-python/azure-mgmt-applicationinsights 1.0.0: Microsoft Azure Application Insights Management Client Library for Python
-dev-python/azure-mgmt-authorization 0.61.0-r1: Microsoft Azure Authorization Management Client Library for Python
+dev-python/azure-mgmt-authorization 0.61.0-r2: Microsoft Azure Authorization Management Client Library for Python
 dev-python/azure-mgmt-batch 16.0.0: Microsoft Azure Batch Management Client Library for Python
 dev-python/azure-mgmt-billing 6.0.0: Microsoft Azure Billing Management Client Library for Python
 dev-python/azure-mgmt-botservice 0.3.0-r1: Microsoft Azure Bot Service client library
