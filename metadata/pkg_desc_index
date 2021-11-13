@@ -31,7 +31,7 @@ dev-python/azure-graphrbac 0.61.1-r2: Microsoft Azure Graph RBAC Resource Manage
 dev-python/azure-identity 1.5.0: Microsoft Azure identity library for Python
 dev-python/azure-keyvault 1.1.0-r4: Microsoft Azure Key Vault Client Library for Python
 dev-python/azure-keyvault-administration 4.0.0: Microsoft app configuration data library for Python
-dev-python/azure-keyvault-keys 4.4.0: Microsoft Azure key vault keys client library for Python
+dev-python/azure-keyvault-keys 4.5.0_beta5: Microsoft Azure key vault keys client library for Python
 dev-python/azure-loganalytics 0.1.0-r2: Microsoft Azure log analytics client library for Python
 dev-python/azure-mgmt-advisor 9.0.0: Microsoft Azure Advisor Client Library for Python
 dev-python/azure-mgmt-apimanagement 0.2.0-r1: Microsoft Azure API Management Client Library for Python
