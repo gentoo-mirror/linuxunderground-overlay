@@ -3,12 +3,12 @@
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{8..9} )
+PYTHON_COMPAT=( python3_{8..10} )
 
 inherit distutils-r1
 
-DESCRIPTION="Microsoft Azure HDInsight Management Client Library"
-HOMEPAGE="https://pypi.org/project/azure-mgmt-hdinsight"
+DESCRIPTION="Microsoft Azure netapp files management client library for Python"
+HOMEPAGE="https://pypi.org/project/azure-mgmt-netapp"
 SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.zip"
 
 KEYWORDS="~amd64 ~arm ~x86"
@@ -22,6 +22,7 @@ DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
 
 RESTRICT="test"
-# There is no release for azure.keyvault.keys module
+# There is no specific release of
+# https://github.com/Azure/azure-sdk-for-python/tree/main/tools/azure-sdk-tools/devtools_testutils
 
 #distutils_enable_tests pytest
