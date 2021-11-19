@@ -49,7 +49,7 @@ dev-python/azure-mgmt-containerinstance 9.1.0: Microsoft Azure Container Instanc
 dev-python/azure-mgmt-containerregistry 8.2.0: Microsoft Azure Container Registry Client Library for Python
 dev-python/azure-mgmt-containerservice 16.2.0: Microsoft Azure Container Service Client Library for Python
 dev-python/azure-mgmt-core 1.3.0: Microsoft Azure management core library for Python
-dev-python/azure-mgmt-cosmosdb 6.4.0: Microsoft Azure Cosmos DB Management Client Library for Python
+dev-python/azure-mgmt-cosmosdb 7.0.0_beta2: Microsoft Azure Cosmos DB Management Client Library for Python
 dev-python/azure-mgmt-databoxedge 1.0.0: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-datalake-analytics 0.2.1-r1: Microsoft Azure Data Lake Analytics Management Client Library for Python
 dev-python/azure-mgmt-datalake-store 0.5.0-r4: Microsoft Azure Data Lake Store Management Client Library for Python
@@ -97,7 +97,7 @@ dev-python/azure-mgmt-signalr 1.0.0_beta2: Microsoft Azure SignalR client librar
 dev-python/azure-mgmt-sql 3.0.1: Microsoft Azure SQL Management Client Library for Python
 dev-python/azure-mgmt-sqlvirtualmachine 1.0.0_beta1: Microsoft Azure SQL virtual machine management client library for Python
 dev-python/azure-mgmt-storage 19.0.0: Microsoft Azure Storage Resource Management Client Library for Python
-dev-python/azure-mgmt-synapse 2.0.0: Microsoft Azure synapse management client library for Python
+dev-python/azure-mgmt-synapse 2.1.0_beta2: Microsoft Azure synapse management client library for Python
 dev-python/azure-mgmt-trafficmanager 0.51.0-r3: Microsoft Azure Traffic Manager Client Library for Python
 dev-python/azure-mgmt-web 4.0.0: Microsoft Azure Web Apps Resource Management Client Library for Python
 dev-python/azure-multiapi-storage 0.7.0: Microsoft Azure Storage Client Library for Python
