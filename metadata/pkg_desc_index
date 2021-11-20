@@ -19,7 +19,7 @@ dev-python/adal 1.2.7-r1: ADAL Python library
 dev-python/applicationinsights 0.11.10: This project extends the Application Insights API surface to support Python
 dev-python/azure-appconfiguration 1.2.0: Microsoft app configuration data library for Python
 dev-python/azure-batch 11.0.0: Microsoft Azure Batch Client Library for Python
-dev-python/azure-cli-core 2.29.2: Microsoft Azure Command-Line Tools Core Module
+dev-python/azure-cli-core 2.30.0: Microsoft Azure Command-Line Tools Core Module
 dev-python/azure-cli-telemetry 1.0.6-r2: Microsoft Azure CLI Telemetry Package
 dev-python/azure-common 1.1.27-r1: Microsoft Azure Client Library for Python (Common)
 dev-python/azure-core 1.18.0: Microsoft Azure core library for Python
@@ -79,9 +79,9 @@ dev-python/azure-mgmt-netapp 5.1.0: Microsoft Azure netapp files management clie
 dev-python/azure-mgmt-network 19.3.0: Microsoft Azure Network Resource Management Client Library for Python
 dev-python/azure-mgmt-policyinsights 1.0.0: Microsoft Azure Policy Insights client library
 dev-python/azure-mgmt-privatedns 1.0.0: Microsoft Azure DNS private zones client library for Python
-dev-python/azure-mgmt-rdbms 9.1.0_beta1: Microsoft Azure RDBMS Management Client Library for Python
+dev-python/azure-mgmt-rdbms 10.0.0: Microsoft Azure RDBMS Management Client Library for Python
 dev-python/azure-mgmt-recoveryservices 2.0.0: Microsoft Azure Recovery Services Client Library for Python
-dev-python/azure-mgmt-recoveryservicesbackup 0.15.0: Microsoft Azure Recovery Services Backup Client Library for Python
+dev-python/azure-mgmt-recoveryservicesbackup 3.0.0: Microsoft Azure Recovery Services Backup Client Library for Python
 dev-python/azure-mgmt-redhatopenshift 1.0.0: Microsoft Azure Red Hat Openshift management client library for Python
 dev-python/azure-mgmt-redis 13.0.0: Microsoft Azure Redis Cache Resource Management Client Library for Python
 dev-python/azure-mgmt-relay 0.2.0-r3: Microsoft Azure Relay Client Library
@@ -132,5 +132,5 @@ games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-gfx/xcftools 1.0.7-r2: A set of fast command-line tools for manipulationg Gimp's file format XCF.
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.29.2: Microsoft Azure Command-Line Tools
+net-misc/azure-cli 2.30.0: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
