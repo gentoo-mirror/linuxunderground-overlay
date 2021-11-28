@@ -118,7 +118,7 @@ dev-python/msal-extensions 0.3.0: Microsoft authentication extensions library fo
 dev-python/msrest 0.6.21-r1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4-r2: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
-dev-python/scp 0.13.3: scp module for paramiko
+dev-python/scp 0.14.1: scp module for paramiko
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
 dev-python/vsts 0.1.25-r3: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r3: Python wrapper around some of the VSTS APIs
