@@ -110,7 +110,7 @@ dev-python/cbmcodecs2 1.2: Python codecs for CBM PETSCII and Screencode encoding
 dev-python/cli_helpers 0.2.3-r2: Python helpers for common CLI tasks
 dev-python/d64 1.6: Read and write Commodore disk images
 dev-python/fabric 2.6.0-r1: A simple pythonic tool for remote execution and deployment
-dev-python/fdb 2.0.1-r1: Firebird RDBMS bindings for Python.
+dev-python/fdb 2.0.2: Firebird RDBMS bindings for Python.
 dev-python/invoke 1.6.0: Pythonic task execution
 dev-python/knack 0.9.0: A Command-Line Interface framework
 dev-python/msal 1.16.0: Microsoft Authentication Library (MSAL) for Python library
