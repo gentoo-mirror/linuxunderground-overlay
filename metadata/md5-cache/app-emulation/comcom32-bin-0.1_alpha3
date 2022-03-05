@@ -1,0 +1,9 @@
+DEFINED_PHASES=install prepare unpack
+DESCRIPTION=32 bit command.com
+EAPI=8
+HOMEPAGE=https://github.com/dosemu2/comcom32
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=amd64? ( https://ppa.launchpadcontent.net/dosemu2/ppa/ubuntu/pool/main/c/comcom32/comcom32_0.1~alpha3-163-a33cf51+202201061039~ubuntu22.04.1_amd64.deb ) x86? ( https://ppa.launchpadcontent.net/dosemu2/ppa/ubuntu/pool/main/c/comcom32/comcom32_0.1~alpha3-163-a33cf51+202201011632~ubuntu18.04.1_i386.deb )
+_md5_=9b0190823e058b0dd1a22f6cde8aaa5a
