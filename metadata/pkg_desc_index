@@ -122,7 +122,6 @@ dev-python/scp 0.14.1: scp module for paramiko
 dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
 dev-python/vsts 0.1.25-r3: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r3: Python wrapper around some of the VSTS APIs
-dev-util/thonny 3.2.3: Python IDE meant for learning programming
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
 games-arcade/doubledash 0.5.1: A split-screen multiplayer remake of BoulderDash game
