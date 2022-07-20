@@ -10,5 +10,5 @@ LICENSE=LGPL-2
 RDEPEND=media-libs/libsdl[sound,video]
 SLOT=0
 SRC_URI=https://www.mrousseau.org/programs/ti99sim/archives/ti99sim-0.14.0.src.tar.xz roms? ( https://ftp.whtech.com/System%20ROMs/MAME/pre_0.174/ti99_complete.zip https://ftp.whtech.com/emulators/mess/mess_modules.zip https://ftp.whtech.com/Cartridges/MAME/old/rpk.old/mg_gramkracker.rpk -> mg_gramkracker.zip )
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	629c5cdf86e3c68e26f2365c54c5d9f5
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	929e29d009c20f55b45c96866ebf47fe
 _md5_=9b884efcfa904fc472edff9a02e09d7a
