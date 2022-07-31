@@ -13,7 +13,6 @@ app-emulation/xemu 9999: C65 / MEGA65 emulator : THE COMMODORE 65 LIVES AGAIN
 app-misc/eid-mw-sdk-c 0.2.3 0.2.4 0.3.1: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
 app-vim/vim-delphi 20200814 99999999: vim plugin: Gentoo and Portage syntax highlighting
 dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.6.33328.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
-dev-db/mssql-cli 1.0 9999: Command-line client for SQL Server with auto-completion and syntax highlighting
 dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/adal 1.2.7-r1: ADAL Python library
 dev-python/applicationinsights 0.11.10: This project extends the Application Insights API surface to support Python
@@ -119,7 +118,6 @@ dev-python/msrest 0.6.21-r1: AutoRest swagger generator Python client runtime
 dev-python/msrestazure 0.6.4-r2: AutoRest swagger generator Python client runtime. Azure-specific module
 dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
 dev-python/scp 0.14.1: scp module for paramiko
-dev-python/sshtunnel 0.1.5-r1: Pure python SSH tunnels
 dev-python/vsts 0.1.25-r3: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r3: Python wrapper around some of the VSTS APIs
 games-arcade/SDLPoP 1.17: Open-source port of Prince of Persia, based on the disassembly of DOS version.
@@ -129,5 +127,4 @@ games-arcade/gdash 20130427 20180129: Clone of Boulderdash (a.k.a Emerald Mine o
 games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/azure-cli 2.31.0: Microsoft Azure Command-Line Tools
 net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
