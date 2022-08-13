@@ -119,6 +119,7 @@ dev-python/portalocker 2.3.2: Library to provide an easy API to file locking
 dev-python/scp 0.14.1: scp module for paramiko
 dev-python/vsts 0.1.25-r3: Python wrapper around the VSTS APIs
 dev-python/vsts-cd-manager 1.0.2-r3: Python wrapper around some of the VSTS APIs
+games-arcade/SDLPoP 1.17-r1: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
 games-arcade/doubledash 0.5.1: A split-screen multiplayer remake of BoulderDash game
 games-arcade/gdash 20130427 20180129: Clone of Boulderdash (a.k.a Emerald Mine on the Amiga)
