@@ -11,7 +11,7 @@ app-emulation/ti99sim 0.13.0 0.14.0 0.15.0 0.16.0 0.16.0-r1: Texas Instruments H
 app-emulation/xemu 9999: C65 / MEGA65 emulator : THE COMMODORE 65 LIVES AGAIN
 app-misc/eid-mw-sdk-c 0.2.3 0.2.4 0.3.1: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
 app-vim/vim-delphi 20200814 99999999: vim plugin: Gentoo and Portage syntax highlighting
-dev-db/firebird 2.5.8.27089.0 2.5.9.27139.0 3.0.6.33328.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
+dev-db/firebird 2.5.9.27139.0 3.0.6.33328.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/cbmcodecs2 1.2: Python codecs for CBM PETSCII and Screencode encodings
 dev-python/d64 1.6: Read and write Commodore disk images
