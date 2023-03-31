@@ -2,7 +2,7 @@ acct-group/firebird 0: Firebird program group
 acct-group/tlsdate 0: System group: tlsdate
 acct-user/firebird 0: Firebird program user
 acct-user/tlsdate 0: user for tlsdate daemon
-app-crypt/acsccid 1.1.7 1.1.8: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
+app-crypt/acsccid 1.1.8 1.1.9: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-editors/featherpad 0.12.1 0.14.2 9999: Lightweight Qt5 Plain-Text Editor for Linux
 app-emulation/comcom32-bin 0.1_alpha3: 32 bit command.com
 app-emulation/dosemu2 2.0_pre8 9999: DOS Emulator. It's an attempt to re-incarnate the famous dosemu project
