@@ -7,7 +7,7 @@ app-editors/featherpad 0.12.1 0.14.2 9999: Lightweight Qt5 Plain-Text Editor for
 app-emulation/comcom32-bin 0.1_alpha3: 32 bit command.com
 app-emulation/dosemu2 2.0_pre8 9999: DOS Emulator. It's an attempt to re-incarnate the famous dosemu project
 app-emulation/fdpp 0.1_beta9 9999: FreeDOS plus-plus, 64bit DOS
-app-emulation/ti99sim 0.13.0 0.14.0 0.15.0 0.16.0 0.16.0-r1: Texas Instruments Home Computer Emulator
+app-emulation/ti99sim 0.14.0 0.15.0 0.16.0 0.16.0-r1: Texas Instruments Home Computer Emulator
 app-emulation/xemu 9999: C65 / MEGA65 emulator : THE COMMODORE 65 LIVES AGAIN
 app-misc/eid-mw-sdk-c 0.2.3 0.2.4 0.3.1: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
 app-vim/vim-delphi 20200814 99999999: vim plugin: Gentoo and Portage syntax highlighting
