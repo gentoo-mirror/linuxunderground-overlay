@@ -23,4 +23,4 @@ games-arcade/gdash 20180129: Clone of Boulderdash (a.k.a Emerald Mine on the Ami
 games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
 media-sound/sid2pcm 0.1: Linux console util to decode sid files to raw pcm at stdout
 media-sound/tinysid 0.94: Console SID file player. Very small and light.
-net-misc/tlsdate 0.0.13 9999: Update local time over HTTPS
+net-misc/tlsdate 9999: Update local time over HTTPS
