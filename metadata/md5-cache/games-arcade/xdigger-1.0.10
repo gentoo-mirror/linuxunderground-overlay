@@ -1,7 +1,7 @@
 DEFINED_PHASES=configure install prepare
 DEPEND=acct-group/gamestat x11-misc/imake
 DESCRIPTION=Lightweight arcade diamonds digging game for X11
-EAPI=7
+EAPI=8
 HOMEPAGE=http://www.ibiblio.org/pub/Linux/games/arcade/
 INHERIT=desktop
 KEYWORDS=~amd64 ~arm ~x86
@@ -10,4 +10,4 @@ RDEPEND=acct-group/gamestat
 SLOT=0
 SRC_URI=http://www.ibiblio.org/pub/Linux/games/arcade/xdigger-1.0.10.tgz
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
-_md5_=4735fc1b6a6160c43c978886af4ea0c6
+_md5_=23a21dae7c3f949164876ef68ef2d5aa
