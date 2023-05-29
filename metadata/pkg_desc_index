@@ -13,7 +13,7 @@ app-misc/eid-mw-sdk-c 0.3.1: GNU package that show how to use libbeidpkcs11 and 
 dev-db/firebird 2.5.9.27139.0 3.0.6.33328.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-python/PyKCS11 1.5.12: A complete PKCS#11 wrapper for Python
 dev-python/cbmcodecs2 1.2: Python codecs for CBM PETSCII and Screencode encodings
-dev-python/d64 1.6: Read and write Commodore disk images
+dev-python/d64 1.8: Read and write Commodore disk images
 dev-python/fdb 2.0.2: Firebird RDBMS bindings for Python.
 games-arcade/SDLPoP 1.17-r1: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
