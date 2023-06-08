@@ -11,5 +11,6 @@ dev-db/firebird:client - Install client library and header files only (2.5.x onl
 dev-db/firebird:server - Install the server components of Firebird, not just the client (3.x.x only)
 dev-db/firebird:superserver - Install SuperServer (2.5.x only)
 dev-db/firebird:xinetd - Install ClassicServer
+dev-python/d64:extra - Add edit features
 games-arcade/SDLPoP:haptic - Enable the haptic (force feedback) subsystem
 media-sound/tinysid:alsa - Install OSS wrapper, by using media-libs/alsa-oss

@@ -1,15 +1,15 @@
 DEFINED_PHASES=configure install prepare
 DEPEND=acct-group/firebird acct-user/firebird dev-libs/libtommath dev-libs/libedit dev-libs/icu:=
 DESCRIPTION=Relational database offering many ANSI SQL:2003 and some SQL:2008 features
-EAPI=7
+EAPI=8
 HOMEPAGE=http://www.firebirdsql.org/
-INHERIT=eutils flag-o-matic multilib
+INHERIT=flag-o-matic
 IUSE=doc examples +server xinetd
 KEYWORDS=~amd64 ~x86
 LICENSE=IDPL Interbase-1.0
-RDEPEND=acct-group/firebird acct-user/firebird dev-libs/libtommath dev-libs/libedit dev-libs/icu:= xinetd? ( virtual/inetd ) !sys-cluster/ganglia
+RDEPEND=acct-group/firebird acct-user/firebird dev-libs/libtommath dev-libs/libedit dev-libs/icu:= xinetd? ( virtual/inetd )
 RESTRICT=userpriv
 SLOT=0
 SRC_URI=https://github.com/FirebirdSQL/firebird/releases/download/R3_0_6/Firebird-3.0.6.33328-0.tar.bz2
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	16483e58fadb0d47b4528f0aa7e171f6
-_md5_=03a9a0fa5e876e84ba373f119a2187fc
+_eclasses_=toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	16483e58fadb0d47b4528f0aa7e171f6
+_md5_=2e18ae57d8a0d2f5a9b4669a793b285d
