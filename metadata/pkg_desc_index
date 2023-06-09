@@ -12,7 +12,6 @@ app-emulation/xemu 9999: C65 / MEGA65 emulator : THE COMMODORE 65 LIVES AGAIN
 app-misc/eid-mw-sdk-c 0.3.1: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
 dev-db/firebird 2.5.9.27139.0 3.0.6.33328.0: Relational database offering many ANSI SQL:2003 and some SQL:2008 features
 dev-python/PyKCS11 1.5.12: A complete PKCS#11 wrapper for Python
-dev-python/cbmcodecs2 1.2: Python codecs for CBM PETSCII and Screencode encodings
 dev-python/d64 1.8-r1: Read and write Commodore disk images
 dev-python/fdb 2.0.2: Firebird RDBMS bindings for Python.
 dev-python/petscii-codecs 1.1: Python codecs for PETSCII character sets
