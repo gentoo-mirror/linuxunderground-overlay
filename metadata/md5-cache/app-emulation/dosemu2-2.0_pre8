@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20240116 || ( >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 >=dev-build/autoconf-2.71-r6:2.71 ) >=dev-build/libtool-2.4.7-r3
+BDEPEND=>=app-portage/elt-patches-20240116 sys-devel/gnuconfig || ( >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 >=dev-build/autoconf-2.71-r6:2.71 ) >=dev-build/libtool-2.4.7-r3
 DEFINED_PHASES=configure install prepare
 DEPEND=X? ( x11-libs/libX11 x11-libs/libXxf86vm x11-libs/libXau x11-libs/libXext x11-libs/libXdmcp x11-apps/xset x11-apps/xlsfonts x11-apps/bdftopcf x11-apps/mkfontdir ) svga? ( media-libs/svgalib ) gpm? ( sys-libs/gpm ) alsa? ( media-libs/alsa-lib ) fluidsynth? ( media-sound/fluidsynth media-sound/fluid-soundfont ) ladspa? ( media-libs/ladspa-cmt ) media-libs/libao media-libs/libsdl2 >=sys-libs/slang-1.4 !app-emulation/dosemu X? ( x11-base/xorg-proto ) sys-devel/bison sys-devel/flex >=sys-devel/autoconf-2.57
 DESCRIPTION=DOS Emulator. It's an attempt to re-incarnate the famous dosemu project
@@ -11,5 +11,5 @@ LICENSE=GPL-2
 RDEPEND=X? ( x11-libs/libX11 x11-libs/libXxf86vm x11-libs/libXau x11-libs/libXext x11-libs/libXdmcp x11-apps/xset x11-apps/xlsfonts x11-apps/bdftopcf x11-apps/mkfontdir ) svga? ( media-libs/svgalib ) gpm? ( sys-libs/gpm ) alsa? ( media-libs/alsa-lib ) fluidsynth? ( media-sound/fluidsynth media-sound/fluid-soundfont ) ladspa? ( media-libs/ladspa-cmt ) media-libs/libao media-libs/libsdl2 >=sys-libs/slang-1.4 !app-emulation/dosemu
 SLOT=0
 SRC_URI=https://codeload.github.com/stsp/dosemu2/tar.gz/2.0pre8 -> dosemu2-2.0_pre8.tar.gz mirror://sourceforge/dosemu/dosemu-freedos-1.0-bin.tgz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	3af8f60c4bdb23e738db506a630898ee	flag-o-matic	288c54efeb5e2aa70775e39032695ad4	pax-utils	91d47e5d20627c717aa878b9167c62a8
+_eclasses_=gnuconfig	a397adda6984a4c423e28ac274c1ba98	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	dc70c1dc473b68317fc4a86f5fbfc57d	flag-o-matic	288c54efeb5e2aa70775e39032695ad4	pax-utils	91d47e5d20627c717aa878b9167c62a8
 _md5_=dc1a50cbf17e88d0c69613710a91c851
