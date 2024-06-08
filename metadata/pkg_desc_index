@@ -16,7 +16,6 @@ dev-python/d64 1.8-r1: Read and write Commodore disk images
 dev-python/fdb 2.0.2: Firebird RDBMS bindings for Python.
 dev-python/petscii-codecs 1.1: Python codecs for PETSCII character sets
 games-arcade/SDLPoP 1.17-r1: Open-source port of Prince of Persia, based on the disassembly of DOS version.
-games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
 games-arcade/doubledash 0.5.1: A split-screen multiplayer remake of BoulderDash game
 games-arcade/gdash 20180129: Clone of Boulderdash (a.k.a Emerald Mine on the Amiga)
 games-arcade/xdigger 1.0.10: Lightweight arcade diamonds digging game for X11
