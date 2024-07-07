@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare
+DEPEND=media-libs/libsdl
+DESCRIPTION=Arkanoid clone written with the SDL library
+EAPI=8
+HOMEPAGE=https://oldschoolprg.x10.mx
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-2
+RDEPEND=media-libs/libsdl
+SLOT=0
+SRC_URI=https://downloads.sourceforge.net/breaker10/breaker216.tar.gz
+_md5_=7824c002619aebad9860ea0e1f157ae0
