@@ -11,5 +11,5 @@ PROPERTIES=live
 RDEPEND=x11-libs/gtk+:3 media-libs/libsdl2[haptic]
 SLOT=0
 SRC_URI=roms? ( http://www.zimmers.net/anonftp/pub/cbm/firmware/computers/c65/911001.bin https://files.mega65.org/files/other/920228_5GTvvJ.BDF )
-_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
 _md5_=53361cf5002b12ca668a404c15093c39
