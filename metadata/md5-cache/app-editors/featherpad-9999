@@ -10,5 +10,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 X? ( dev-qt/qtx11extras:5 ) dev-qt/qtnetwork:5 dev-qt/qtprintsupport:5 dev-qt/qtsvg:5 app-text/hunspell
 SLOT=0
-_eclasses_=toolchain-funcs	e7e7331166166e7a516d19e264b098c2	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	xdg-utils	baea6080dd821f5562d715887954c9d3	git-r3	875eb471682d3e1f18da124be97dcc81
+_eclasses_=toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	xdg-utils	baea6080dd821f5562d715887954c9d3	git-r3	875eb471682d3e1f18da124be97dcc81
 _md5_=0021a14573061fba2665cfb68dee2f86
