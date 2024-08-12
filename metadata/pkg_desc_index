@@ -5,7 +5,7 @@ app-emulation/ti99sim 0.14.0 0.15.0 0.16.0 0.16.0-r1: Texas Instruments Home Com
 app-emulation/xemu 9999: C65 / MEGA65 emulator : THE COMMODORE 65 LIVES AGAIN
 app-misc/eid-mw-sdk-c 0.3.1: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
 dev-python/PyKCS11 1.5.16: A complete PKCS#11 wrapper for Python
-dev-python/d64 1.8-r1: Read and write Commodore disk images
+dev-python/d64 1.10: Read and write Commodore disk images
 dev-python/petscii-codecs 1.3: Python codecs for PETSCII character sets
 games-arcade/SDLPoP 1.17-r1: Open-source port of Prince of Persia, based on the disassembly of DOS version.
 games-arcade/breaker 2.16: Arkanoid clone written with the SDL library
