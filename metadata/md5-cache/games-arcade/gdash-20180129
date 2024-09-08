@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=media-libs/sdl2-mixer[vorbis] media-libs/sdl2-image[png] x11-libs/gtk+:2
 SLOT=0
 SRC_URI=https://bitbucket.org/czirkoszoltan/gdash/downloads/gdash-20180129unstable.tar.gz
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
+_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
 _md5_=32c2ba9c6d814e84d9fa669a2f4de441
