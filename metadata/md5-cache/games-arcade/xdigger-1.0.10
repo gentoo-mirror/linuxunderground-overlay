@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=acct-group/gamestat
 SLOT=0
 SRC_URI=http://www.ibiblio.org/pub/Linux/games/arcade/xdigger-1.0.10.tgz
-_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=23a21dae7c3f949164876ef68ef2d5aa
