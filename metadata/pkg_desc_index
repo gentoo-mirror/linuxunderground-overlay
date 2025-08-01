@@ -1,6 +1,6 @@
 acct-group/tlsdate 0: System group: tlsdate
 acct-user/tlsdate 0: user for tlsdate daemon
-app-crypt/acsccid 1.1.11: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
+app-crypt/acsccid 1.1.12: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-emulation/ti99sim 0.14.0 0.15.0 0.16.0 0.16.0-r1: Texas Instruments Home Computer Emulator
 app-emulation/xemu 9999: C65 / MEGA65 emulator : THE COMMODORE 65 LIVES AGAIN
 app-misc/eid-mw-sdk-c 0.3.1: GNU package that show how to use libbeidpkcs11 and the autotools with eid-mw
